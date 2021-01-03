@@ -9,7 +9,7 @@ add_action('phpmailer_init', function ($phpmailer) {
     $phpmailer->Host = 'smtp.office365.com'; // for example, smtp.mailtrap.io
     $phpmailer->Port = 587; // set the appropriate port: 465, 2525, etc.
     $phpmailer->Username = 'onlineorders@thecarcareworld.com'; // your SMTP username
-    $phpmailer->Password = '0n1i@rd%%'; // your SMTP password
+    $phpmailer->Password = ''; // your SMTP password
     $phpmailer->SMTPAuth = true;
     //$phpmailer->SMTPDebug = 3;
     $phpmailer->SMTPSecure = 'tls'; // preferable but optional
@@ -52,7 +52,7 @@ add_filter('wp_mail', function ($mail) {
             $phpmailer->Host = 'smtp.office365.com'; // for example, smtp.mailtrap.io
             $phpmailer->Port = 587; // set the appropriate port: 465, 2525, etc.
             $phpmailer->Username = 'cs@thecarcareworld.com'; // your SMTP username
-            $phpmailer->Password = 'C@6crew0%%'; // your SMTP password
+            $phpmailer->Password = ''; // your SMTP password
             $phpmailer->SMTPAuth = true;
             //$phpmailer->SMTPDebug = 3;
             $phpmailer->SMTPSecure = 'tls'; // preferable but optional
