@@ -1,0 +1,19 @@
+2020-12-18T23:03:34+00:00 - Array
+(
+    [action_id] => 5537
+    [creation_date] => 2020-12-18 22:40:40
+    [execution_time] => 1608331300
+    [hook] => bwfan_run_queue
+    [arguments] => 
+    [group] => woofunnels
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 2
+            [message] => Declaration of YITH_YWRAQ_Send_Quote_Reminder::get_from_address() should be compatible with WC_Email::get_from_address($from_email = '')
+            [file] => /home/thecar91/public_html/wp-content/plugins/yith-woocommerce-request-a-quote-premium/includes/emails/class.yith-ywraq-send-quote-reminder.php
+            [line] => 252
+        )
+
+)
+

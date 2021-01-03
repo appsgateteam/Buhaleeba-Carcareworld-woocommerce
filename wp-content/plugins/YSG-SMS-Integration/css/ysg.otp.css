@@ -1,0 +1,45 @@
+.hold_phone_number{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border: solid 1px #ddd;
+    padding-right: 15px;
+    position: relative;
+}
+.hold_phone_number #ysg_otp_phone{
+    border: none;
+}
+.hold_phone_number .send_verify{
+    display: block;
+    font-size: 0.9rem;
+    color: #528ff0;
+    text-transform: capitalize;
+}
+
+.validate_otp{
+    margin-top: 10px;
+    background: #eee;
+    display: none;
+}
+.validate_otp.active{
+    display: flex;
+}
+.error_box_ys{
+    margin-top: 10px;
+    background: #f2dede;
+    color: #a94442;
+    line-height: 1.2em;
+    padding: 10px;
+    display:  none;
+}
+.the_hide_phone_number{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+}

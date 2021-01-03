@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Site is Protected"
+AuthUserFile "/home/thecar91/.htpasswds/public_html/passwd"
+require valid-user

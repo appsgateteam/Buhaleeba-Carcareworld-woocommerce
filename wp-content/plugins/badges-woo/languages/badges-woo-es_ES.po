@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woobadges 1.0.5\n"
+"POT-Creation-Date: 2020-05-09 16:20+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Riera <daniel@taxapro.com>\n"
+"Language-Team: TaxarPro\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: product_metabox.php:11
+msgid "Position"
+msgstr "Posición"
+
+#: product_metabox.php:29
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: product_metabox.php:37
+msgid "Text"
+msgstr "Texto"
+
+#: product_metabox.php:39
+msgid ""
+"You can insert emojis, <a target=\"_blank\" href=\"https://taxarpro.com/en/"
+"emojis-for-your-website/\">see link</a>"
+msgstr ""
+"Puedes insertar emojis, <a target=\"_blank\" href=\"https://taxarpro.com/"
+"es/emojis-para-web/\">mira este enlace</a>"
+
+#: product_metabox.php:43
+msgid "Background Color"
+msgstr "Color de Fondo"
+
+#: product_metabox.php:48
+msgid "Color"
+msgstr "Color del Texto"
+
+#: product_metabox.php:53
+msgid "Font Size"
+msgstr "Tamaño de Fuente"
+
+#: product_metabox.php:58
+msgid "Font Weight"
+msgstr "Peso de la Fuente"
+
+#: product_metabox.php:63
+msgid "Show on single product page"
+msgstr "Mostrar en la página de producto"
+
+#: product_metabox.php:68
+msgid "Zoom for single product page"
+msgstr "Zoom para la página de producto"
+
+#: woobadges.php:147
+msgid "Badge Configuration"
+msgstr "Configuración de Badge"

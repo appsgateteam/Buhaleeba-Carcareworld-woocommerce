@@ -1,0 +1,87 @@
+.cart-collaterals {
+display: flex !important;
+flex-direction: column-reverse;
+}
+
+.cart_totals {
+max-width: 40%;
+min-width: 500px;
+margin-right: 0;
+margin-left: auto;
+}
+.ysg-product-brands-section{
+}
+.all-brands{
+display: flex;
+align-items: flex-start;
+justify-content:flex-start;
+align-content: flex-start;
+margin: 0px -3.1%;
+}
+.all-brands .one_brand{
+width: 15%;
+margin-right: 2%;
+margin-bottom: 20px;
+}
+.all-brands .one_brand a{
+display: flex;
+align-content: center;
+justify-content: center;
+align-items: center;
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.all-brands .one_brand a img{
+width: 100%;
+display: block;
+}
+.float-right-important{
+float: right !important;
+}
+
+.form-row input[type="tel"]:not(.submit){
+width: 100%;
+max-width: 100%;   
+}
+
+.form-row-wide .select2-container{
+    width: 100% !important;
+}
+.ucancel-order-section{
+    margin: 5px 0;
+}
+.ucancel-order-section .content{
+    margin: 0  auto;
+    background-color: #fff;
+    min-height: 300px;
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.hold_cancel_btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.cancel_btn{
+    display: block;
+    width: 120px;
+    padding: 10px 0;
+    text-align: center;
+    background: #232323;
+    color: #fff;
+    text-transform: capitalize;
+    margin:  20px 7px;
+}
+.back_btn_cancel{
+    color: #232323;
+    background: none;
+    border: solid 1px #232323;
+}

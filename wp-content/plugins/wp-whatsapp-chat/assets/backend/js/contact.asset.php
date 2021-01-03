@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('backbone', 'jquery', 'wp-util'), 'version' => '74180bb71433c318f2d188fe4ae5243f');

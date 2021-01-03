@@ -1,0 +1,147 @@
+@import "includes/_functions";
+@import "includes/_defaults";
+@import "includes/_base";
+@import "includes/_layout";
+.woocommerce-cart .woocommerce-shipping-destination {
+  display: none;
+}
+.cart-collaterals {
+  display: flex !important;
+  flex-direction: column-reverse;
+}
+.cart_totals {
+  max-width: 40%;
+  min-width: 500px;
+  margin-right: 0;
+  margin-left: auto;
+}
+.ysg-product-brands-section {
+}
+.all-brands {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin: 0px -3.1%;
+}
+.all-brands .one_brand {
+  width: 15%;
+  margin-right: 2%;
+  margin-bottom: 20px;
+}
+.all-brands .one_brand a {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.all-brands .one_brand a img {
+  width: 100%;
+  display: block;
+}
+.float-right-important {
+  float: right !important;
+}
+
+.form-row input[type="tel"]:not(.submit) {
+  width: 100%;
+  max-width: 100%;
+}
+
+.form-row-wide .select2-container {
+  width: 100% !important;
+}
+.ucancel-order-section {
+  margin: 5px 0;
+}
+.ucancel-order-section .content {
+  margin: 0 auto;
+  background-color: #fff;
+  min-height: 300px;
+  padding: 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.hold_cancel_btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.cancel_btn {
+  display: block;
+  width: 120px;
+  padding: 10px 0;
+  text-align: center;
+  background: #232323;
+  color: #fff;
+  text-transform: capitalize;
+  margin: 20px 7px;
+}
+.back_btn_cancel {
+  color: #232323;
+  background: none;
+  border: solid 1px #232323;
+}
+.ysg_hidden {
+  display: none;
+}
+
+.yg_all_quote_info {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: solid 1px #ddd;
+  .info_yqtye {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #000;
+    margin-bottom: 5px;
+  }
+  .enmquots_ysg {
+    @include normal-flex(space-between);
+    .quote_qty {
+      display: block;
+      background-color: #fff;
+      width: 100px;
+      height: 40px;
+      box-sizing: border-box;
+    }
+    .yith-ywraq-add-to-quote {
+      .add-request-quote-button {
+        width: auto !important;
+        float: none !important;
+        height: 40px !important;
+        box-sizing: border-box;
+        background: #ddd !important;
+        color: #000 !important;
+      }
+      .yith-ywraq-add-button {
+      }
+    }
+  }
+}
+.widget_tz_pay_icons img {
+  filter: grayscale(0);
+}
+
+.widget_tz_contacts ul li {
+  color: #fff;
+  font-weight: 700;
+}
+
+.cart_totals tr.order-total td {
+  color: #000;
+  font-size: 1.8em;
+  .includes_tax {
+    display: block;
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,3262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YIT WooCommerce Request a Quote\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2019-12-05 12:20:23+00:00\n"
+"PO-Revision-Date: 2019-11-26 14:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:77
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:169
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:156
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:153
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:182
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:169
+msgid "Image"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:183
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:166
+#: templates/admin/ywraq-fields-edit.php:29
+#: templates/admin/ywraq-raqform-table.php:45
+#: templates/admin/ywraq-raqform-table.php:59
+#: templates/myaccount/view-quote.php:291
+msgid "Name"
+msgstr "Имя"
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:184
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:167
+#: templates/admin/ywraq-fields-edit.php:60
+msgid "Description"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:185
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:168
+msgid "Slug"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:186
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:169
+msgid "Count"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-cat-table.php:187
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:173
+#: includes/admin/class.yith-ywraq-exclusions-tag-table.php:170
+#: plugin-options/form-options.php:201
+#: templates/admin/ywraq-raqform-table.php:52
+#: templates/admin/ywraq-raqform-table.php:66
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:133
+msgid "In Stock"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:170
+#: templates/emails/quote-table.php:44
+#: templates/emails/request-quote-table.php:49
+#: templates/myaccount/view-quote.php:150 templates/pdf/quote-table.php:40
+#: templates/request-quote-view.php:39 templates/request-quote-view.php:72
+#: templates/request-quote-view.php:166
+msgid "Product"
+msgstr "Товар"
+
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:171
+#: templates/request-quote-view.php:124 templates/request-quote-view.php:270
+msgid "Price"
+msgstr ""
+
+#: includes/admin/class.yith-ywraq-exclusions-prod-table.php:172
+msgid "Stock Status"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:191
+#: templates/admin/ywraq-raqform-table.php:24
+msgid "Add new field"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:192
+msgid "Edit field"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:193
+msgid "Set"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:194
+#: templates/admin/ywraq-raqform-table.php:111
+#: templates/emails/plain/request-quote-customer.php:69
+#: templates/emails/plain/request-quote.php:69
+msgid "Yes"
+msgstr "Да"
+
+#: includes/class.yith-request-quote-admin.php:231
+msgid "Button Settings"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:234
+msgid "Premium Version"
+msgstr "Premium Версия"
+
+#: includes/class.yith-request-quote-admin.php:236
+msgid "Form Settings"
+msgstr "Настройки формы"
+
+#: includes/class.yith-request-quote-admin.php:238
+msgid "Request List"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:239
+#: plugin-options/quote-options.php:20
+msgid "Quote Settings"
+msgstr "Настройки запроса"
+
+#: includes/class.yith-request-quote-admin.php:240
+msgid "Other Settings"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:244
+msgid "PDF Quote"
+msgstr "PDF запрос"
+
+#: includes/class.yith-request-quote-admin.php:252
+msgid "Exclusion List"
+msgstr "Список исключений"
+
+#: includes/class.yith-request-quote-admin.php:367
+msgctxt "page_slug"
+msgid "request-quote"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:368
+#: includes/class.yith-request-quote-frontend.php:103
+#: plugin-options/button-options.php:118
+#: templates/emails/request-quote-table.php:34
+msgid "Request a Quote"
+msgstr "Request a Quote"
+
+#: includes/class.yith-request-quote-admin.php:472
+#: includes/class.yith-request-quote-admin.php:514
+msgid "YITH WooCommerce Request a Quote"
+msgstr ""
+
+#: includes/class.yith-request-quote-admin.php:476
+msgid ""
+"WooCommerce coupon system has been disabled. In order to make YITH "
+"WooCommerce Request a Quote work correctly, you have to enable coupons."
+msgstr ""
+"Возможность использования купонов в WooCommerce отключена. Чтобы плагин YITH "
+"WooCommerce Request a Quote работал без ошибок, нужно её включить."
+
+#: includes/class.yith-request-quote-admin.php:480
+msgid "Enable the use of coupons"
+msgstr "Включить использование купонов"
+
+#: includes/class.yith-request-quote-admin.php:508
+msgid ""
+"The template 'request-quote-form.php' that you've override in your theme was "
+"deprecated since version 2.0 and will be ignored."
+msgstr ""
+
+#: includes/class.yith-request-quote-frontend.php:228
+#, fuzzy
+msgid "Please enter a stronger password."
+msgstr "Пожалуйста, введите имя"
+
+#: includes/class.yith-request-quote-frontend.php:247
+msgid "Set at least the quantity for a product"
+msgstr ""
+
+#: includes/class.yith-request-quote-frontend.php:248
+msgid ""
+"Please select some product options before adding this product to your quote "
+"list."
+msgstr ""
+
+#: includes/class.yith-request-quote-frontend.php:249
+msgid "This Variation is Out of Stock, please select another one."
+msgstr ""
+
+#: includes/class.yith-request-quote-gateway.php:34
+#: includes/class.yith-request-quote-gateway.php:35
+#, fuzzy
+msgid "YITH Request a Quote"
+msgstr "Request a Quote"
+
+#: includes/class.yith-request-quote-gateway.php:36
+#, fuzzy
+msgid "Allows to request a quote at checkout."
+msgstr "Позволять клиентам заказывать цены для товаров, которых нет в наличии"
+
+#: includes/class.yith-request-quote-premium.php:650
+msgid "You must be logged in to access this page"
+msgstr "Вы должны быть авторизованы для просмотра этой страницы"
+
+#: includes/class.yith-request-quote-privacy-dpa.php:19
+#, fuzzy
+msgctxt "Privacy Policy Content"
+msgid "YITH Woocommerce Request A Quote Premium"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#: includes/class.yith-request-quote-privacy-dpa.php:35
+msgid "While you visit our site, we'll track:"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:37
+msgid ""
+"Products added to the quote list: these products will be used to offer you "
+"our best price."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:38
+msgid "All fields in the quote request form: name, email and message content."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:40
+msgid ""
+"Note: you should add here all the fields that appear in the quote request "
+"form."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:41
+msgid ""
+"We'll also use cookies to keep track of request a quote list while you're "
+"browsing our site."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:42
+msgid ""
+"Note: you may want to further detail your cookie policy, and link to that "
+"section from here."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:43
+msgid "Send you information about your request:"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:44
+#, fuzzy
+msgid "The answer to your quote request."
+msgstr "[Ответить на запрос цен]"
+
+#: includes/class.yith-request-quote-privacy-dpa.php:45
+msgid ""
+"Note: all the fields in the quote request that have been filled by the user "
+"will be saved in the order details, so, they will be subject to WooCommerce "
+"plugin Privacy Policy.\n"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:49
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:51
+msgid "- the quote request you've submitted through our store."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:52
+msgid "- data entered in the quote request form."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy-dpa.php:54
+msgid ""
+"Our team members have access to this information to send you the best offer."
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy.php:175
+msgid "Request a quote - Customer Name"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy.php:176
+msgid "Request a quote - Customer Email"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy.php:177
+msgid "Request a quote - Customer Message"
+msgstr ""
+
+#: includes/class.yith-request-quote-privacy.php:178
+msgid "Request a quote - Email Content"
+msgstr ""
+
+#: includes/class.yith-request-quote.php:459
+#: includes/functions.yith-request-quote.php:144
+#: plugin-options/button-options.php:145
+msgid "Product already in the list."
+msgstr "Товар уже в списке запроса цен."
+
+#: includes/class.yith-request-quote.php:676
+msgid "Error occurred while adding product to Request a Quote list."
+msgstr "Возникла ошибка при добавлении товара в список."
+
+#: includes/class.yith-request-quote.php:830
+msgid "This product is not quotable."
+msgstr "Цену на этот товар запросить невозможно."
+
+#: includes/class.yith-request-quote.php:930
+msgid "Please enter a name"
+msgstr "Пожалуйста, введите имя"
+
+#: includes/class.yith-request-quote.php:934
+msgid "Please enter a valid email"
+msgstr "Пожалуйста, введите существующий электронный адрес"
+
+#: includes/class.yith-request-quote.php:938
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+"Аккаунт с таким email'ом уже зарегистрирован. Пожалуйста, авторизуйтесь."
+
+#: includes/class.yith-request-quote.php:942
+#: includes/class.yith-request-quote.php:948
+#: includes/class.yith-request-quote.php:954
+msgid "Please enter a value for %s"
+msgstr "Пожалуйста, укажите количество для %s"
+
+#: includes/class.yith-request-quote.php:961
+#: includes/forms/default/class.yith-ywraq-default-form.php:631
+msgid "Please check the the captcha form."
+msgstr ""
+
+#: includes/class.yith-request-quote.php:1053
+msgid "There was a problem sending your request. Please try again."
+msgstr "Возникла проблема при отправке вашего запроса. Попробуйте ещё раз."
+
+#: includes/class.yith-ywraq-cron.php:119
+msgid "YITH WooCommerce Request a Quote Cron"
+msgstr ""
+
+#: includes/class.yith-ywraq-order-request.php:214
+msgid ""
+"The discount has been removed because you have changed the quote contents."
+msgstr ""
+
+#: includes/class.yith-ywraq-order-request.php:254
+#: includes/compatibility/yith-woocommerce-product-vendors.php:115
+msgid "This quote has been submitted from the checkout page."
+msgstr ""
+
+#: includes/class.yith-ywraq-order-request.php:632
+#: templates/pdf/quote-header.php:124
+msgid "Quote #%s"
+msgstr "Запрос #%s"
+
+#: includes/class.yith-ywraq-order-request.php:673
+#: includes/class.yith-ywraq-order-request.php:731
+#: includes/class.yith-ywraq-order-request.php:751
+msgid "New Quote Request"
+msgstr "Новый запрос цен"
+
+#: includes/class.yith-ywraq-order-request.php:678
+msgid "New Quote Request <span class=\"count\">(%s)</span>"
+msgid_plural "New Quote Requests <span class=\"count\">(%s)</span>"
+msgstr[0] "Новый запрос цен <span class=\"count\">(%s)</span>"
+msgstr[1] "Новый запрос цен <span class=\"count\">(%s)</span>"
+msgstr[2] "Новый запрос цен <span class=\"count\">(%s)</span>"
+
+#: includes/class.yith-ywraq-order-request.php:682
+#: includes/class.yith-ywraq-order-request.php:732
+#: includes/class.yith-ywraq-order-request.php:752
+msgid "Pending Quote"
+msgstr "Ожидающий запрос"
+
+#: includes/class.yith-ywraq-order-request.php:687
+msgid "Pending Quote <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Quote <span class=\"count\">(%s)</span>"
+msgstr[0] "Ожидающий запрос <span class=\"count\">(%s)</span>"
+msgstr[1] "Ожидающие запросы <span class=\"count\">(%s)</span>"
+msgstr[2] "Ожидающих запросов <span class=\"count\">(%s)</span>"
+
+#: includes/class.yith-ywraq-order-request.php:691
+#: includes/class.yith-ywraq-order-request.php:733
+#: includes/class.yith-ywraq-order-request.php:753
+msgid "Expired Quote"
+msgstr "Просроченный запрос"
+
+#: includes/class.yith-ywraq-order-request.php:696
+msgid "Expired Quote <span class=\"count\">(%s)</span>"
+msgid_plural "Expired Quotes <span class=\"count\">(%s)</span>"
+msgstr[0] "Просроченный запрос <span class=\"count\">(%s)</span>"
+msgstr[1] "Просроченных запроса <span class=\"count\">(%s)</span>"
+msgstr[2] "Просроченных запросов <span class=\"count\">(%s)</span>"
+
+#: includes/class.yith-ywraq-order-request.php:700
+#: includes/class.yith-ywraq-order-request.php:734
+#: includes/class.yith-ywraq-order-request.php:754
+msgid "Accepted Quote"
+msgstr "Принятый запрос"
+
+#: includes/class.yith-ywraq-order-request.php:705
+msgid "Accepted Quote <span class=\"count\">(%s)</span>"
+msgid_plural "Accepted Quote <span class=\"count\">(%s)</span>"
+msgstr[0] "Принятый запрос <span class=\"count\">(%s)</span>"
+msgstr[1] "Принятых запроса <span class=\"count\">(%s)</span>"
+msgstr[2] "Принятых запросов <span class=\"count\">(%s)</span>"
+
+#: includes/class.yith-ywraq-order-request.php:709
+#: includes/class.yith-ywraq-order-request.php:735
+#: includes/class.yith-ywraq-order-request.php:755
+msgid "Rejected Quote"
+msgstr "Отклонённый запрос"
+
+#: includes/class.yith-ywraq-order-request.php:714
+msgid "Rejected Quote <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected Quote <span class=\"count\">(%s)</span>"
+msgstr[0] "Отклонённый запрос <span class=\"count\">(%s)</span>"
+msgstr[1] "Отклонённых запроса <span class=\"count\">(%s)</span>"
+msgstr[2] "Отклонённых запросов <span class=\"count\">(%s)</span>"
+
+#: includes/class.yith-ywraq-order-request.php:931
+msgid "Error %d: Unable to create the order. Please try again."
+msgstr "Ошибка %d: Невозможно создать запрос. Попробуйте ещё раз."
+
+#: includes/class.yith-ywraq-order-request.php:1276
+msgid "Send the Quote"
+msgstr "Отправить запрос"
+
+#: includes/class.yith-ywraq-order-request.php:1325
+#, fuzzy
+msgid "<p><a href=\"%s\" class=\"page-title-action\">Add a new Quote</a></p>"
+msgstr "<p><a href=\"%s\">Добавить новый запрос</a></p>"
+
+#: includes/class.yith-ywraq-order-request.php:1479
+msgid "An error occurred creating your request. Please try again."
+msgstr ""
+
+#: includes/class.yith-ywraq-order-request.php:1556
+#: includes/class.yith-ywraq-order-request.php:1588
+#: includes/class.yith-ywraq-order-request.php:1612
+msgid "An error occurred. Please, contact site administrator"
+msgstr "Возникла ошибка. Свяжитесь с администратором сайта."
+
+#: includes/class.yith-ywraq-order-request.php:1622
+#: includes/functions.yith-request-quote.php:280
+msgid "rejected"
+msgstr "отклонен"
+
+#: includes/class.yith-ywraq-order-request.php:1707
+msgid "Discount:"
+msgstr "Скидка:"
+
+#: includes/class.yith-ywraq-order-request.php:1744
+msgid "You do not have permission to read the quote"
+msgstr "У вас нет разрешения на чтение запроса"
+
+#: includes/class.yith-ywraq-order-request.php:1786
+msgid "Quote n. %d has been rejected and is not available"
+msgstr "Запрос № %d был отклонён и более не доступен"
+
+#: includes/class.yith-ywraq-order-request.php:1789
+#: includes/class.yith-ywraq-order-request.php:1800
+msgid "Quote n. %d has expired and is not available"
+msgstr "Запрос № %d просрочен и более не доступен"
+
+#: includes/class.yith-ywraq-order-request.php:1792
+msgid "Quote n. %d can't be accepted because its status is: %s"
+msgstr "Запрос № %d не может быть принят, так как его статус: %s"
+
+#: includes/class.yith-ywraq-order-request.php:1798
+msgid "Quote n. %d has been rejected"
+msgstr "Запрос № %d был отклонён"
+
+#: includes/class.yith-ywraq-order-request.php:1802
+msgid "Quote n. %d can't be rejected because its status is: %s"
+msgstr "Запрос № %d не может быть отклонён, так как его статус: %s"
+
+#: includes/class.yith-ywraq-order-request.php:1830
+msgid "The quote n. %d has been rejected"
+msgstr "Запрос № %d был отклонён"
+
+#: includes/class.yith-ywraq-order-request.php:1870
+msgid "Discount applied successfully."
+msgstr "Скидки успешно применены."
+
+#: includes/class.yith-ywraq-order-request.php:1872
+msgid "Discount removed successfully."
+msgstr "Скидки успешно удалены."
+
+#: includes/class.yith-ywraq-order-request.php:2196
+msgid ""
+"It's not possible to add products to the cart since you have already "
+"accepted a quote."
+msgstr ""
+
+#: includes/class.yith-ywraq-order-request.php:2214
+msgid ""
+"It's not possible change the quantity since you have already accepted a "
+"quote."
+msgstr ""
+
+#: includes/class.yith-ywraq-shortcodes.php:116
+#: includes/class.yith-ywraq-shortcodes.php:202
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:69
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:151
+#: plugin-options/gutenberg/blocks.php:90
+msgid "item"
+msgstr ""
+
+#: includes/class.yith-ywraq-shortcodes.php:117
+#: includes/class.yith-ywraq-shortcodes.php:203
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:70
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:152
+#: plugin-options/gutenberg/blocks.php:95
+msgid "items"
+msgstr ""
+
+#: includes/class.yith-ywraq-shortcodes.php:176
+#: includes/class.yith-ywraq-shortcodes.php:201
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:140
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:68
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:150
+#: plugin-options/gutenberg/blocks.php:30
+#: plugin-options/gutenberg/blocks.php:85
+msgid "Quote List"
+msgstr "Список запроса цен"
+
+#: includes/compatibility/class.woocommerce-composite-products.php:238
+#: includes/compatibility/class.woocommerce-composite-products.php:347
+#: includes/compatibility/yith-woocommerce-composite-products.php:220
+#: includes/compatibility/yith-woocommerce-composite-products.php:340
+#: includes/compatibility/yith-woocommerce-composite-products.php:433
+#: templates/emails/plain/quote-table.php:29
+#: templates/emails/plain/request-quote-table.php:30
+#: templates/emails/quote-table.php:76
+#: templates/emails/request-quote-table.php:76
+#: templates/myaccount/view-quote.php:178 templates/pdf/quote-table.php:65
+#: templates/request-quote-view.php:171
+msgid " SKU:"
+msgstr ""
+
+#: includes/compatibility/class.woocommerce-composite-products.php:314
+#: includes/compatibility/class.woocommerce-composite-products.php:369
+#: includes/compatibility/yith-woocommerce-composite-products.php:271
+#: includes/compatibility/yith-woocommerce-composite-products.php:493
+msgid "Option subtotal: "
+msgstr "Подытог:"
+
+#: includes/compatibility/yith-woocommerce-advanced-product-options.php:190
+#: templates/request-quote-view.php:90
+#, fuzzy
+msgid "Attached file"
+msgstr "Вложение"
+
+#: includes/compatibility/yith-woocommerce-advanced-product-options.php:365
+msgctxt "notice on admin order item meta"
+msgid "* Sold invidually"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-composite-products.php:538
+msgid "Base Price:"
+msgstr "Цена:"
+
+#: includes/compatibility/yith-woocommerce-composite-products.php:538
+msgid "Total Price:"
+msgstr "Итого"
+
+#: includes/compatibility/yith-woocommerce-composite-products.php:551
+msgid "Options subtotal"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-deposits-and-down-payments.php:89
+msgid "%s (of %s)"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-deposits-and-down-payments.php:91
+msgid "Pay now:"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-deposits-and-down-payments.php:153
+msgid "Enable Deposit"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-deposits-and-down-payments.php:160
+msgid "Deposit Rate"
+msgstr ""
+
+#: includes/compatibility/yith-woocommerce-deposits-and-down-payments.php:162
+msgid "Percentage of product total price required as deposit"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-quote-status.php:39
+#, fuzzy
+msgid "[YITH Request a Quote] Accepted/rejected Quote"
+msgstr "Принятый/отклонённый заказ"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:40
+msgid ""
+"This email is sent when a user clicks on \"Accept/Reject\" button in a "
+"Proposal"
+msgstr ""
+"Это письмо отправляется после нажатия пользователем на кнопки \"Принять/"
+"Отклонить\" в заявке"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:42
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:42
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:42
+msgid "Request a quote"
+msgstr "Заказать цены"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:43
+msgid "[Answer to quote request]"
+msgstr "[Ответить на запрос цен]"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:206
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:242
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:247
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:267
+#: includes/emails/class.yith-ywraq-send-quote.php:279
+msgid "Enable/Disable"
+msgstr "Включить/Отключить"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:208
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:244
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:249
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:269
+#: includes/emails/class.yith-ywraq-send-quote.php:281
+msgid "Enable this email notification"
+msgstr "Включить это e-mail оповещение"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:212
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:248
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:253
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:281
+#: includes/emails/class.yith-ywraq-send-quote.php:285
+msgid "\"From\" Name"
+msgstr "Имя \"От\""
+
+#: includes/emails/class.yith-ywraq-quote-status.php:219
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:255
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:260
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:288
+#: includes/emails/class.yith-ywraq-send-quote.php:292
+msgid "\"From\" Email Address"
+msgstr "E-mail \"От\""
+
+#: includes/emails/class.yith-ywraq-quote-status.php:227
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:262
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:267
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:295
+#: includes/emails/class.yith-ywraq-send-quote.php:299
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:229
+msgid ""
+"This field lets you edit email subject line. Leave it blank to use default "
+"subject text: <code>%s</code>. You can use {quote_number} as a placeholder "
+"that will show the quote number in the quote."
+msgstr ""
+"Это поле позволяет редактировать тему письма. Оставьте его пустым, чтобы "
+"использовать текст темы по умолчанию <code>%s</code>. Можно также "
+"использовать {quote_number}, чтобы показывать номер запроса."
+
+#: includes/emails/class.yith-ywraq-quote-status.php:235
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:274
+msgid "Recipient(s)"
+msgstr "Получатель(-и)"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:237
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:276
+msgid ""
+"Enter recipients (separated by commas) for this email. Defaults to <code>%s</"
+"code>"
+msgstr ""
+"Введите получателей (разделяйте запятой) для этого письма. По умолчанию "
+"<code>%s</code>"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:243
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:281
+msgid "Send CC copy"
+msgstr "Отправить копию"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:245
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:283
+msgid "Send a carbon copy to the user"
+msgstr "Отправить копию пользователю"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:250
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:282
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:287
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:315
+#: includes/emails/class.yith-ywraq-send-quote.php:319
+msgid "Email Heading"
+msgstr "Заголовок письма"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:252
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:284
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:289
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:317
+#: includes/emails/class.yith-ywraq-send-quote.php:321
+msgid ""
+"This field lets you change the main heading in email notification. Leave it "
+"blank to use default heading type: <code>%s</code>."
+msgstr ""
+"Это поле позволяет редактировать тему e-mail уведомления. Оставьте его "
+"пустым, чтобы использовать текст темы по умолчанию <code>%s</code>."
+
+#: includes/emails/class.yith-ywraq-quote-status.php:258
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:290
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:295
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:328
+#: includes/emails/class.yith-ywraq-send-quote.php:332
+msgid "Email Description"
+msgstr "Содержимое письма"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:261
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:298
+msgid "You have received a request for a quote. The request is the following:"
+msgstr "На ваш запрос цен был дан ответ. Запрос:"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:265
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:296
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:313
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:334
+#: includes/emails/class.yith-ywraq-send-quote.php:338
+msgid "Email type"
+msgstr "Тип письма"
+
+#: includes/emails/class.yith-ywraq-quote-status.php:267
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:298
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:315
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:336
+#: includes/emails/class.yith-ywraq-send-quote.php:340
+msgid "Choose email format."
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:39
+#, fuzzy
+msgid "[YITH Request a Quote] Confirmation email for the customer"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:40
+#, fuzzy
+msgid ""
+"This email is sent as confirmation when a user clicks on \"Request a quote\" "
+"button"
+msgstr ""
+"Это письмо отправляется после нажатия пользователем на кнопкe \"Заказать цены"
+"\""
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:43
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:43
+msgid "[Request a quote]"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:264
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:269
+#, fuzzy
+msgid ""
+"This field lets you edit email subject line. Leave it blank to use default "
+"subject text: <code>%s</code>. You can use {quote_number} as a placeholder "
+"that will show the quote number in the quote,<br>{quote_user} to show the "
+"customer's name, {quote_email} to show the customer's email"
+msgstr ""
+"Это поле позволяет редактировать тему письма. Оставьте его пустым, чтобы "
+"использовать текст темы по умолчанию <code>%s</code>. Можно также "
+"использовать {quote_number}, чтобы показывать номер запроса."
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:269
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:302
+#: includes/emails/class.yith-ywraq-send-quote.php:306
+msgid "Bcc Recipient(s)"
+msgstr "BCC получатель(и)"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:271
+#, fuzzy
+msgid ""
+"Enter futher recipients (separated by commas) for this email. By default "
+"email to the customer."
+msgstr ""
+"Добавьте получателей (разделяйте запятыми). По умолчанию письмо уходит "
+"клиенту"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:276
+#, fuzzy
+msgid "Enter additional recipients"
+msgstr "Дополнительные поля клиента"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:278
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:311
+#: includes/emails/class.yith-ywraq-send-quote.php:315
+msgid "Send a blind carbon copy to the administrator"
+msgstr "Отправить невидимую (BCC) копию администратору"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote-customer.php:293
+#, fuzzy
+msgid "You have sent a quote request for the following products:"
+msgstr "На ваш запрос цен был дан ответ. Запрос:"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:39
+#, fuzzy
+msgid "[YITH Request a Quote] Email to request a quote"
+msgstr "Отправить письмо для запроса цен"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:40
+msgid "This email is sent when a user clicks on \"Request a quote\" button"
+msgstr ""
+"Это письмо отправляется после нажатия пользователем на кнопкe \"Заказать цены"
+"\""
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:136
+#, fuzzy
+msgid "There was a problem sending your request. Please try again...."
+msgstr "Возникла проблема при отправке вашего запроса. Попробуйте ещё раз."
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:301
+msgid "Link to quote request details to be shown in \"Request a Quote\" email"
+msgstr ""
+"Ссылка на детали заказа цен, которая показывается в письме \"Заказать цены\""
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:307
+msgid "Quote request details"
+msgstr "Детали заказа цен"
+
+#: includes/emails/class.yith-ywraq-send-email-request-quote.php:308
+msgid "Quote creation page (admin)"
+msgstr "Страница создания заказа (admin)"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:39
+msgid "[YITH Request a Quote] Reminder: expiring quote"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:40
+#, fuzzy
+msgid ""
+"This email is sent when to the customer when the quote is going to expire."
+msgstr ""
+"Это письмо отправляется после того, как администратор отправляет запрос в "
+"редакторе заказов"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:42
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:43
+msgid "Reminder: expiring quote"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:273
+msgid "Days (to pass) before sending the email: "
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:275
+msgid "Number of days before quote expiration to send the email"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:297
+#: includes/emails/class.yith-ywraq-send-quote.php:301
+msgid ""
+"This field lets you modify the email subject line. Leave it blank to use the "
+"default subject text: <code>%s</code>. You can use {quote_number} as a "
+"placeholder that will show the quote number in the quote."
+msgstr ""
+"Это поле позволяет изменять тему письма. Оставьте его пустым, чтобы "
+"использовать текст темы по умолчанию <code>%s</code>. Можно также "
+"использовать {quote_number}, чтобы показывать номер запроса."
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:304
+#: includes/emails/class.yith-ywraq-send-quote.php:308
+msgid ""
+"Enter futher recipients (separated by commas) for this email. By default "
+"email to the customer"
+msgstr ""
+"Добавьте получателей (разделяйте запятыми). По умолчанию письмо уходит "
+"клиенту"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:309
+#: includes/emails/class.yith-ywraq-send-quote.php:313
+msgid "Send BCC copy"
+msgstr "Отправить невидимую (BCC) копию"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:322
+#: includes/emails/class.yith-ywraq-send-quote.php:326
+msgid "Email Title"
+msgstr "Заголовок письма"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:325
+#, fuzzy
+msgid "Expiring Proposal"
+msgstr "Наше предложение"
+
+#: includes/emails/class.yith-ywraq-send-quote-reminder.php:331
+#, fuzzy
+msgid ""
+"You have received this email because your quote request on our store is "
+"about to expire and will be no longer available. Our best proposal is the "
+"following:"
+msgstr ""
+"Вы получили это письмо, так как заказывали цены на нашем сайте. Ответ на ваш "
+"запрос ниже:"
+
+#: includes/emails/class.yith-ywraq-send-quote.php:40
+#, fuzzy
+msgid "[YITH Request a Quote] Email with Quote"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#: includes/emails/class.yith-ywraq-send-quote.php:41
+msgid ""
+"This email is sent when an administrator performs the action \"Send the quote"
+"\" from Order Editor"
+msgstr ""
+"Это письмо отправляется после того, как администратор отправляет запрос в "
+"редакторе заказов"
+
+#: includes/emails/class.yith-ywraq-send-quote.php:43
+msgid "Our Proposal"
+msgstr "Наше предложение"
+
+#: includes/emails/class.yith-ywraq-send-quote.php:44
+msgid "[Quote]"
+msgstr ""
+
+#: includes/emails/class.yith-ywraq-send-quote.php:329
+msgid "Proposal"
+msgstr "Предложение"
+
+#: includes/emails/class.yith-ywraq-send-quote.php:335
+msgid ""
+"You have received this email because you sent a quote request to our shop. "
+"The response to your request is the following:"
+msgstr ""
+"Вы получили это письмо, так как заказывали цены на нашем сайте. Ответ на ваш "
+"запрос ниже:"
+
+#: includes/forms/contact-form-7/class.yith-ywraq-contact-form-7.php:145
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/forms/contact-form-7/class.yith-ywraq-contact-form-7.php:166
+#: includes/forms/contact-form-7/class.yith-ywraq-contact-form-7.php:184
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:711
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:729
+#: includes/forms/yit-contact-form/class.yith-ywraq-yit-contact-form.php:140
+msgid "Choose the form to display"
+msgstr "Отображать форму"
+
+#: includes/forms/contact-form-7/class.yith-ywraq-contact-form-7.php:184
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:729
+msgid "Edit form"
+msgstr ""
+
+#: includes/forms/contact-form-7/functions.yith-ywraq-contact-form-7.php:51
+#: includes/forms/yit-contact-form/class.yith-ywraq-yit-contact-form.php:108
+msgid "Plugin not activated or not installed"
+msgstr "Плагин не активирован или не установлен"
+
+#: includes/forms/contact-form-7/functions.yith-ywraq-contact-form-7.php:62
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:634
+#: includes/forms/yit-contact-form/class.yith-ywraq-yit-contact-form.php:123
+msgid "No contact form found"
+msgstr "Не найдено контактной формы"
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:111
+msgid "Default Form"
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:318
+msgid "This is a required field."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:319
+msgid "The mail you have entered seems to be wrong."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:320
+msgid "The file is greater than "
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:321
+msgid "This file type is unsupported. Valid extensions: "
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:347
+#: includes/forms/default/class.yith-ywraq-default-form.php:388
+#: includes/forms/default/class.yith-ywraq-default-form.php:424
+#: includes/forms/default/class.yith-ywraq-default-form.php:458
+#: includes/forms/default/class.yith-ywraq-default-form.php:489
+#, fuzzy
+msgid "required"
+msgstr "просроченный"
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:819
+#: includes/forms/default/class.yith-ywraq-default-form.php:907
+msgid "%s is required."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:829
+msgid " %s is not a valid email address."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:834
+msgid " %s is not a valid phone number."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:840
+msgid " %s is greater than %s."
+msgstr ""
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:1029
+#: templates/emails/plain/request-quote.php:77
+#: templates/emails/request-quote.php:128
+#, fuzzy
+msgid "Accepted"
+msgstr "принятый"
+
+#: includes/forms/default/class.yith-ywraq-default-form.php:1029
+#: templates/emails/plain/request-quote.php:77
+#: templates/emails/request-quote.php:128
+#, fuzzy
+msgid "Not Accepted"
+msgstr "принятый"
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:37
+msgid "First Name"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:47
+msgid "Last Name"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:57
+#: includes/forms/default/functions.yith-ywraq-default-form.php:279
+#: templates/myaccount/view-quote.php:321
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:67
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:570
+#: plugin-options/metabox/ywraq-metabox-order.php:65
+msgid "Message"
+msgstr "Сообщение"
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:277
+msgid "No validation"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:278
+#: includes/forms/default/functions.yith-ywraq-default-form.php:313
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:578
+msgid "Phone"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:280
+msgid "File"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:295
+msgid "First"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:296
+msgid "Last"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:297
+msgid "Wide"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:312
+msgid "Text"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:314
+msgid "Textarea"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:315
+msgid "Radio"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:316
+msgid "Checkbox"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:317
+msgid "Select"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:318
+#: templates/myaccount/view-quote.php:317
+msgid "Country"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:319
+msgid "State"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:320
+msgid "Upload"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:321
+msgid "Multi select"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:322
+#: templates/myaccount/my-quotes.php:62 templates/myaccount/my-quotes.php:100
+msgid "Date"
+msgstr "Дата"
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:323
+msgid "Time"
+msgstr ""
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:324
+#, fuzzy
+msgid "Acceptance"
+msgstr "Принять"
+
+#: includes/forms/default/functions.yith-ywraq-default-form.php:325
+msgid "Heading"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:210
+#, fuzzy
+msgid "YITH Quote List"
+msgstr "Список запроса цен"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:498
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:552
+#, fuzzy
+msgid "YITH WooCommerce Request a Quote Settings"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:502
+msgid "This is the tooltip"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:503
+msgid "This is the label"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:524
+#, fuzzy
+msgid "Choose the field"
+msgstr "Отображать форму"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:555
+msgid "Name of user *"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:558
+msgid "Choose what field should be used for the name"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:562
+msgid "Email of user *"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:565
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:573
+msgid "Choose what field should be used for the email"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:581
+msgid "Choose what field should be used for the Phone"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:586
+#: plugin-options/metabox/ywraq-metabox-order.php:53
+msgid "Billing Address"
+msgstr "Платёжный адрес"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:589
+msgid "Choose what field should be used for the Address"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:594
+#, fuzzy
+msgid "Shipping Address"
+msgstr "Платёжный адрес"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:597
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:604
+msgid "Choose what field should be used for the Shipping Address"
+msgstr ""
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:601
+#, fuzzy
+msgid "Product List"
+msgstr "Товар"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:621
+msgid "Plugin Gravity Forms not activated or not installed"
+msgstr "Плагин Gravity Forms не активирован или не установлен"
+
+#: includes/forms/gravity-forms/ywraq-gravity-form-addons.php:690
+msgid "Gravity Forms"
+msgstr ""
+
+#: includes/forms/yit-contact-form/class.yith-ywraq-yit-contact-form.php:87
+msgid "YIT Contact Form"
+msgstr ""
+
+#: includes/forms/yit-contact-form/class.yith-ywraq-yit-contact-form.php:218
+msgid "An error has occurred. Please, contact site administrator."
+msgstr "Возникла ошибка. Свяжитесь с администратором сайта."
+
+#: includes/functions.yith-request-quote.php:79
+msgid "All"
+msgstr "Все"
+
+#: includes/functions.yith-request-quote.php:135
+#: plugin-options/button-options.php:163
+msgid "Product added to the list!"
+msgstr "Товар добавлен в список!"
+
+#: includes/functions.yith-request-quote.php:138
+#: plugin-options/button-options.php:154 plugin-options/button-options.php:159
+msgid "Browse the list"
+msgstr "Посмотреть список"
+
+#: includes/functions.yith-request-quote.php:141
+#: plugin-options/button-options.php:136
+msgid "Add to Quote"
+msgstr ""
+
+#: includes/functions.yith-request-quote.php:147
+#: plugin-options/quote-options.php:64
+msgid "Accept"
+msgstr "Принять"
+
+#: includes/functions.yith-request-quote.php:150
+#: plugin-options/quote-options.php:113
+msgid "Reject"
+msgstr "Отклонить"
+
+#: includes/functions.yith-request-quote.php:271
+msgid "new"
+msgstr "новый"
+
+#: includes/functions.yith-request-quote.php:274
+msgid "pending"
+msgstr "ожидающий"
+
+#: includes/functions.yith-request-quote.php:277
+msgid "expired"
+msgstr "просроченный"
+
+#: includes/functions.yith-request-quote.php:283
+#: includes/functions.yith-request-quote.php:286
+msgid "accepted"
+msgstr "принятый"
+
+#: includes/functions.yith-request-quote.php:593
+msgid "%s %s <a href=\"%s\">#%s</a>"
+msgstr ""
+
+#: includes/functions.yith-request-quote.php:608
+msgid "Your list is empty, add products to the list to send a request"
+msgstr ""
+"Ваш список пуст. Пожалуйста, добавьте товары, и тогда вы сможете отправить "
+"запрос"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:41
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:41
+msgid "Show products added to your list"
+msgstr "Показать добавленные в список товары."
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:43
+msgid "YITH WooCommerce Request a Quote List"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:151
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:165
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:164
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:199
+msgid "Show Thumbnail"
+msgstr "Показывать миниатюру"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:173
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:208
+msgid "Show Price"
+msgstr "Показывать цену"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:182
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:217
+msgid "Show Quantity"
+msgstr "Показывать количество"
+
+#: includes/widgets/class.yith-ywraq-list-quote-widget.php:191
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:226
+msgid "Show Variations"
+msgstr "Показывать вариации товаров"
+
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:43
+msgid "YITH WooCommerce Mini Request a Quote List"
+msgstr ""
+
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:175
+msgid "Item Name:"
+msgstr "Название товара:"
+
+#: includes/widgets/class.yith-ywraq-mini-list-quote-widget.php:185
+msgid "Item Plural Name:"
+msgstr "Название товара (во множественном числе):"
+
+#: init.php:111
+msgid ""
+"YITH Woocommerce Request A Quote is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH Woocommerce Request A Quote включён, но не работает. Для работы "
+"требуется плагин WooCommerce."
+
+#: plugin-options/button-options.php:17
+msgid "Request a Quote Button Settings"
+msgstr ""
+
+#: plugin-options/button-options.php:23
+msgid "Button type"
+msgstr "Тип кнопки"
+
+#: plugin-options/button-options.php:24
+msgid ""
+"Choose whether to show a button or a link for the \"Add to quote\" button."
+msgstr ""
+
+#: plugin-options/button-options.php:29
+msgid "Link"
+msgstr "Ссылка"
+
+#: plugin-options/button-options.php:30
+msgid "Button"
+msgstr "Кнопка"
+
+#: plugin-options/button-options.php:36
+msgid "Add to quote action after click"
+msgstr ""
+
+#: plugin-options/button-options.php:37
+msgid ""
+"Select one of the options to define the \"Add to quote\" button or link "
+"behavior."
+msgstr ""
+
+#: plugin-options/button-options.php:42
+msgid ""
+"after clicking on \"add to quote button\", the user will view a link on the "
+"single product page to go to the request list."
+msgstr ""
+
+#: plugin-options/button-options.php:43
+msgid ""
+"after clicking on \"add to quote button\", the user will be automatically "
+"redirected to the request list."
+msgstr ""
+
+#: plugin-options/button-options.php:49
+msgid "Choose where to show the \"add to quote\" button."
+msgstr ""
+
+#: plugin-options/button-options.php:50
+msgid "Show button in single product page"
+msgstr "Показывать кнопку на страницах товаров"
+
+#: plugin-options/button-options.php:59
+msgid "Show button in other pages"
+msgstr "Показывать кнопку на остальных страницах"
+
+#: plugin-options/button-options.php:69
+#, fuzzy
+msgid "Show button in WooCommerce Blocks"
+msgstr "Показывать кнопку на остальных страницах"
+
+#: plugin-options/button-options.php:78
+msgid "Show button even if the product is out of stock"
+msgstr ""
+
+#: plugin-options/button-options.php:87
+msgid "Show button only on out of stock products. "
+msgstr ""
+
+#: plugin-options/button-options.php:95
+msgid "Show button next to \"Add to cart\" in single product page"
+msgstr ""
+"Расположить кнопку рядом с кнопкой \"Добавить в корзину\" на странице товара"
+
+#: plugin-options/button-options.php:96
+msgid ""
+"By enabling this option, the user will see the Request a Quote link or "
+"button next to the Add to cart button."
+msgstr ""
+
+#: plugin-options/button-options.php:104
+#, fuzzy
+msgid "Show button on checkout page"
+msgstr "Показывать кнопку на остальных страницах"
+
+#: plugin-options/button-options.php:105
+msgid ""
+"Show a button in checkout to let your users convert the cart content into a "
+"quote request. This will immediately create a quote request. <br>(We suggest "
+"enabling this option if you want that your users on checkout are not "
+"directed to the Quote page before submitting a request.)"
+msgstr ""
+
+#: plugin-options/button-options.php:113
+msgid "Checkout Button Label"
+msgstr ""
+
+#: plugin-options/button-options.php:114
+#, fuzzy
+msgid ""
+"Choose the text you wish to show within the \"add to quote\" button or link "
+"on the checkout page."
+msgstr ""
+"Если отмечено, кнопка заказа цен будет показываться рядом с кнопкой "
+"добавления товара в корзину на странице товара"
+
+#: plugin-options/button-options.php:130
+msgid "Button Labels"
+msgstr ""
+
+#: plugin-options/button-options.php:137
+msgid ""
+"Choose the text you wish to show within the \"add to quote\" button or link "
+"on the single product page."
+msgstr ""
+
+#: plugin-options/button-options.php:141
+msgid "Add to quote"
+msgstr "Добавить в заказ"
+
+#: plugin-options/button-options.php:146
+msgid ""
+"Choose the text you wish to display in the link that shows users the product "
+"is already on the request list within the loop (product list) or in the "
+"single product page."
+msgstr ""
+
+#: plugin-options/button-options.php:150
+msgid "This product is already in quote request list"
+msgstr ""
+
+#: plugin-options/button-options.php:155
+msgid ""
+"Choose the text you wish to show in the link that redirects users to the "
+"request list within the loop (product list) or on the single product page."
+msgstr ""
+
+#: plugin-options/button-options.php:164
+msgid ""
+"Choose the text you wish to show soon after adding a product to the request "
+"list."
+msgstr ""
+
+#: plugin-options/button-options.php:168
+msgid "Product added"
+msgstr ""
+
+#: plugin-options/button-options.php:179
+msgid "Request Quote Button Color Settings"
+msgstr ""
+
+#: plugin-options/button-options.php:185
+msgid "Button background color"
+msgstr "Цвет фона кнопки"
+
+#: plugin-options/button-options.php:194
+msgid "Button background on hover"
+msgstr ""
+
+#: plugin-options/button-options.php:203
+msgid "Button/Link text color"
+msgstr "Цвет текста кнопки/ссылки"
+
+#: plugin-options/button-options.php:212
+msgid "Button/Link text color hover"
+msgstr "Цвет текста кнопки/ссылки при наведении курсора"
+
+#: plugin-options/button-options.php:229
+msgid "User Settings"
+msgstr ""
+
+#: plugin-options/button-options.php:235 plugin-options/button-options.php:248
+msgid "Choose who you want to show the \"Add to quote\" button."
+msgstr ""
+
+#: plugin-options/button-options.php:236
+msgid ""
+"Choose whether to show the \"Add to quote\" button only to logged or guest "
+"users or both."
+msgstr ""
+
+#: plugin-options/button-options.php:241
+msgid "Guests & logged-in users"
+msgstr ""
+
+#: plugin-options/button-options.php:242
+msgid "Guests"
+msgstr "Гостям"
+
+#: plugin-options/button-options.php:243
+msgid "Logged-in users"
+msgstr "Авторизованным пользователям"
+
+#: plugin-options/button-options.php:249
+msgid ""
+"Choose whether to show the \"Add to quote\" button only to specific roles."
+msgstr ""
+
+#: plugin-options/form-options.php:22 plugin-options/form-options.php:38
+msgid "Default"
+msgstr "По умолчанию"
+
+#: plugin-options/form-options.php:27
+msgid "Form settings"
+msgstr "Настройки формы"
+
+#: plugin-options/form-options.php:32
+msgid "Request form"
+msgstr ""
+
+#: plugin-options/form-options.php:33
+msgid ""
+"Choose one. You can also add forms from YIT Contact Form, Contact Form 7 or "
+"Gravity Form that must be installed and activated."
+msgstr ""
+
+#: plugin-options/form-options.php:45
+msgid "Edit the default form"
+msgstr ""
+
+#: plugin-options/form-options.php:57
+msgid "Edit the Request a quote email options"
+msgstr ""
+
+#: plugin-options/form-options.php:75
+msgid "Enable registration on the \"Request a Quote\" page"
+msgstr "Включить регистрацию на странице заказа цен"
+
+#: plugin-options/form-options.php:76
+msgid "The plugin adds a checkbox below the form"
+msgstr ""
+
+#: plugin-options/form-options.php:90
+msgid "Force Registration on the \"Request a Quote\" page"
+msgstr ""
+
+#: plugin-options/form-options.php:104
+#, fuzzy
+msgid "Add a reCAPTCHA to the default form"
+msgstr "Дополнительное текстовое поле для формы по умолчанию"
+
+#: plugin-options/form-options.php:105
+msgid "To start using reCAPTCHA V2, you need to sign up for an"
+msgstr ""
+
+#: plugin-options/form-options.php:105
+msgid " API key pair for your site"
+msgstr ""
+
+#: plugin-options/form-options.php:119
+msgid "Add reCAPTCHA site key"
+msgstr ""
+
+#: plugin-options/form-options.php:134
+msgid "Add reCAPTCHA secret key"
+msgstr ""
+
+#: plugin-options/form-options.php:149
+msgid "Autocomplete Form"
+msgstr ""
+
+#: plugin-options/form-options.php:150
+msgid ""
+"Check this option if you want that the fields connected to WooCommerce "
+"fields will be filled automatically"
+msgstr ""
+
+#: plugin-options/form-options.php:162
+msgid "Date Picker Format"
+msgstr ""
+
+#: plugin-options/form-options.php:176
+msgid "Time Picker Format Time"
+msgstr ""
+
+#: plugin-options/form-options.php:207
+msgid "Set what to show after sending the quote "
+msgstr ""
+
+#: plugin-options/form-options.php:208
+msgid "Select which details you want to show after sending the quote"
+msgstr ""
+
+#: plugin-options/form-options.php:213
+msgid "Show a simple message"
+msgstr ""
+
+#: plugin-options/form-options.php:214
+#, fuzzy
+msgid "Show quote details"
+msgstr "Детали заказа"
+
+#: plugin-options/form-options.php:215
+#, fuzzy
+msgid "Thank you page"
+msgstr "Активировать страницу благодарности"
+
+#: plugin-options/form-options.php:220
+msgid "Show this message after a quote request is sent"
+msgstr "Показывать это сообщение после отправки запроса цен"
+
+#: plugin-options/form-options.php:225
+msgid "Your request has been sent successfully."
+msgstr "Ваш запрос успешно отправлен!"
+
+#: plugin-options/form-options.php:234
+msgid "Show request details after it has been submitted"
+msgstr "Показывать детали запроса после его отправки"
+
+#: plugin-options/form-options.php:235
+msgid "If checked, the link of the quote details will be showed"
+msgstr ""
+"Если стоит галочка, то клиентам будет показываться ссылка на детали запроса"
+
+#: plugin-options/form-options.php:248
+msgid "Show this text to lead users to Details page"
+msgstr ""
+"Используйте этот текст, чтобы направлять пользователей на страницу с "
+"деталями заказа"
+
+#: plugin-options/form-options.php:259
+msgid "You can see details at:"
+msgstr "Вы можете ознакомиться с деталями по ссылке:"
+
+#: plugin-options/form-options.php:263
+msgid "Select your Thank-you page"
+msgstr "Выберите страницу благодарности"
+
+#: plugin-options/gutenberg/blocks.php:18
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Widget Quote List"
+msgstr "Список запроса цен"
+
+#: plugin-options/gutenberg/blocks.php:19
+#: plugin-options/gutenberg/blocks.php:74
+#, fuzzy
+msgctxt "[gutenberg]: block description"
+msgid "Show products added to your list."
+msgstr "Показать добавленные в список товары."
+
+#: plugin-options/gutenberg/blocks.php:23
+#: plugin-options/gutenberg/blocks.php:78
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Quote"
+msgstr "Запрос"
+
+#: plugin-options/gutenberg/blocks.php:24
+#, fuzzy
+msgctxt "[gutenberg]: keywords"
+msgid "Quote Widget"
+msgstr "Список запроса цен"
+
+#: plugin-options/gutenberg/blocks.php:29
+#: plugin-options/gutenberg/blocks.php:84
+#, fuzzy
+msgctxt "[gutenberg]: title of widget"
+msgid "Title"
+msgstr "Заголовок:"
+
+#: plugin-options/gutenberg/blocks.php:34
+#: plugin-options/gutenberg/blocks.php:99
+#, fuzzy
+msgctxt "[gutenberg]: show or hide the thumbnail"
+msgid "Show Thumbnail"
+msgstr "Показывать миниатюру"
+
+#: plugin-options/gutenberg/blocks.php:37
+#: plugin-options/gutenberg/blocks.php:102
+#, fuzzy
+msgctxt "[gutenberg]: Help to show thumbnail"
+msgid "Show it"
+msgstr "Кому показывать"
+
+#: plugin-options/gutenberg/blocks.php:38
+#: plugin-options/gutenberg/blocks.php:103
+#, fuzzy
+msgctxt "[gutenberg]: Help to hide thumbnail"
+msgid "Hide it"
+msgstr "Спрятать цену"
+
+#: plugin-options/gutenberg/blocks.php:43
+#: plugin-options/gutenberg/blocks.php:108
+#, fuzzy
+msgctxt "[gutenberg]: show or hide the price"
+msgid "Show Price"
+msgstr "Показывать цену"
+
+#: plugin-options/gutenberg/blocks.php:46
+#: plugin-options/gutenberg/blocks.php:111
+#, fuzzy
+msgctxt "[gutenberg]: Help to show price"
+msgid "Show it"
+msgstr "Кому показывать"
+
+#: plugin-options/gutenberg/blocks.php:47
+#: plugin-options/gutenberg/blocks.php:112
+#, fuzzy
+msgctxt "[gutenberg]: Help to hide price"
+msgid "Hide it"
+msgstr "Спрятать цену"
+
+#: plugin-options/gutenberg/blocks.php:52
+#: plugin-options/gutenberg/blocks.php:117
+#, fuzzy
+msgctxt "[gutenberg]: show or hide the quantity"
+msgid "Show Quantity"
+msgstr "Показывать количество"
+
+#: plugin-options/gutenberg/blocks.php:55
+#: plugin-options/gutenberg/blocks.php:120
+#, fuzzy
+msgctxt "[gutenberg]: Help to show quantity"
+msgid "Show it"
+msgstr "Кому показывать"
+
+#: plugin-options/gutenberg/blocks.php:56
+#: plugin-options/gutenberg/blocks.php:121
+#, fuzzy
+msgctxt "[gutenberg]: Help to hide quantity"
+msgid "Hide it"
+msgstr "Спрятать цену"
+
+#: plugin-options/gutenberg/blocks.php:61
+#: plugin-options/gutenberg/blocks.php:126
+#, fuzzy
+msgctxt "[gutenberg]: show or hide the variations"
+msgid "Show Variations"
+msgstr "Показывать вариации товаров"
+
+#: plugin-options/gutenberg/blocks.php:64
+#: plugin-options/gutenberg/blocks.php:129
+#, fuzzy
+msgctxt "[gutenberg]: Help to show variations"
+msgid "Show it"
+msgstr "Кому показывать"
+
+#: plugin-options/gutenberg/blocks.php:65
+#: plugin-options/gutenberg/blocks.php:130
+#, fuzzy
+msgctxt "[gutenberg]: Help to hide variations"
+msgid "Hide it"
+msgstr "Спрятать цену"
+
+#: plugin-options/gutenberg/blocks.php:73
+#, fuzzy
+msgctxt "[gutenberg]: block name"
+msgid "Mini Widget Quote List"
+msgstr "Список запроса цен"
+
+#: plugin-options/gutenberg/blocks.php:79
+msgctxt "[gutenberg]: keywords"
+msgid "Mini Quote Widget"
+msgstr ""
+
+#: plugin-options/gutenberg/blocks.php:89
+#, fuzzy
+msgctxt "[gutenberg]: title of widget"
+msgid "Item name"
+msgstr "Название товара:"
+
+#: plugin-options/gutenberg/blocks.php:94
+#, fuzzy
+msgctxt "[gutenberg]: title of widget"
+msgid "Item plural name"
+msgstr "Название товара (во множественном числе):"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:57
+msgid "Billing Phone"
+msgstr "Номер телефона"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:61
+msgid "Billing Vat"
+msgstr "НДС"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:83
+msgid "Attachment"
+msgstr "Вложение"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:109
+msgid "Request a Quote Order Settings"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:115
+#: plugin-options/metabox/ywraq-metabox.php:24
+msgid "Settings"
+msgstr "Настройки"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:124
+msgid "Customer's name"
+msgstr "Имя клиента"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:131
+msgid "Customer's email"
+msgstr "E-mail клиента"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:138
+#: templates/emails/plain/request-quote.php:28
+#: templates/emails/request-quote.php:45
+msgid "Customer's message"
+msgstr "Сообщение клиента"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:149
+#: plugin-options/metabox/ywraq-metabox-order.php:150
+#: plugin-options/metabox/ywraq-metabox-order.php:155
+msgid "Additional email content"
+msgstr "Дополнительное содержание письма"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:163
+#: plugin-options/metabox/ywraq-metabox-order.php:171
+#: plugin-options/metabox/ywraq-metabox-order.php:179
+msgid "Customer's additional field"
+msgstr "Дополнительное поле клиента"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:187
+msgid "Customer's attachment"
+msgstr "Вложение клиента"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:202
+msgid "Attach message to the quote before the table list (optional)"
+msgstr "Добавить сообщение к цене перед таблицей (опционально)"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:204
+msgid "Write a message that will be attached to the quote"
+msgstr "Написать сообщение, которое будет прикреплено к цене"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:210
+msgid "Attach message to the quote after the table list (optional)"
+msgstr "Добавить сообщение к цене после таблицы (опционально)"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:212
+msgid "Write a message that will be attached to the quote after the list"
+msgstr "Написать сообщение, которое будет прикреплено к цене после таблицы"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:218
+msgid "Optional Attachment"
+msgstr "Необязательное вложение"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:220
+msgid "Use this field to add additional attachment to the email"
+msgstr ""
+"Используйте это поле, чтобы прикрепить дополнительное вложение к письму"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:225
+msgid "Expire date (optional)"
+msgstr "Истечёт (опционально)"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:226
+#: plugin-options/metabox/ywraq-metabox-order.php:278
+msgid "Set an expiration date for this quote"
+msgstr "Установить срок актуальности для этой цены"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:236
+msgid "Send the customer to \"Pay for Quote\""
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:238
+msgid ""
+"If billing and shipping fields are filled, you can send the customer to Pay "
+"for Quote Page. In this page, neither billing nor shipping information will "
+"be requested."
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:244
+msgid "Override checkout fields"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:246
+msgid "Select an option if you want to override checkout fields."
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:249
+msgid "Do not override Billing and Shipping Info"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:250
+msgid "Override Billing and Shipping Info"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:251
+msgid "Override Billing Info"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:252
+msgid "Override Shipping Info"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:258
+msgid "Lock the editing of fields selected above"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:260
+msgid ""
+"Check this option if you want to disable the editing of the checkout fields."
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:267
+msgid "Override shipping"
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:269
+msgid ""
+"Check this option if you want to use only the shipping method in the quote."
+msgstr ""
+
+#: plugin-options/metabox/ywraq-metabox-order.php:297
+msgid "Create PDF"
+msgstr "Создать PDF"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:298
+msgid "View PDF"
+msgstr "Посмотреть PDF"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:301
+msgid "View Pdf"
+msgstr "Посмотреть Pdf"
+
+#: plugin-options/metabox/ywraq-metabox-order.php:311
+msgid "Send Quote"
+msgstr "Отправить цены"
+
+#: plugin-options/metabox/ywraq-metabox.php:18
+msgid "Single Product Settings for quote requests"
+msgstr "Настройки одиночного товара для заказа цен"
+
+#: plugin-options/metabox/ywraq-metabox.php:27
+msgid "\"Add to quote\" button"
+msgstr "Кнопка \"добавить в заказ цен\""
+
+#: plugin-options/metabox/ywraq-metabox.php:28
+msgid "Exclude this product from showing \"Add to quote\" button"
+msgstr "Не показывать кнопку \"добавить в заказ цен\" в этих товарах"
+
+#: plugin-options/other-options.php:16 plugin-options/other-options.php:25
+msgid "Exclusion List Settings"
+msgstr ""
+
+#: plugin-options/other-options.php:19
+msgid "Enable Exclusion List"
+msgstr ""
+
+#: plugin-options/other-options.php:20
+msgid ""
+"By enabling the exclusion list, you can exclude the products you prefer from "
+"the plugin behavior. <br>You can add the products you wish to be excluded "
+"from Request a Quote features in the new \"Exclusion List\" tab soon after "
+"enabling this option."
+msgstr ""
+
+#: plugin-options/other-options.php:26
+msgid "From here, you can change the behavior of the \"exclusion list\"."
+msgstr ""
+
+#: plugin-options/other-options.php:33
+msgid "Hide the button \"add to quote\" on all products of the exclusion list."
+msgstr ""
+
+#: plugin-options/other-options.php:34
+msgid "Show the \"add to quote\" button on all products of the exclusion list."
+msgstr ""
+
+#: plugin-options/other-options.php:39
+msgid "PDF Settings"
+msgstr ""
+
+#: plugin-options/other-options.php:42
+msgid "Allow creating PDF Documents"
+msgstr ""
+
+#: plugin-options/other-options.php:43
+msgid ""
+"By checking this option, a new tab named PDF Settings will be enabled. Here, "
+"you can customizethe PDF."
+msgstr ""
+
+#: plugin-options/other-options.php:57
+msgid "General Settings"
+msgstr ""
+
+#: plugin-options/other-options.php:60
+msgid "Hide \"Add to cart\" button"
+msgstr "Спрятать кнопку \"Добавить в корзину\""
+
+#: plugin-options/other-options.php:61
+msgid "Hide \"Add to cart\" button to all products"
+msgstr ""
+
+#: plugin-options/other-options.php:67
+msgid "Hide price"
+msgstr "Спрятать цену"
+
+#: plugin-options/other-options.php:68
+msgid "Hide price to all products"
+msgstr ""
+
+#: plugin-options/pdf-options.php:16
+msgid "PDF Quote Settings"
+msgstr ""
+
+#: plugin-options/pdf-options.php:19
+msgid "Allow creating PDF document download in My Account page"
+msgstr ""
+
+#: plugin-options/pdf-options.php:20
+msgid ""
+"If checked, a button \"Download PDF\" will be added in the quote detail page"
+msgstr ""
+"Если отмечено, на странице с деталями заказа цен будет отображаться кнопка "
+"\"скачать PDF\""
+
+#: plugin-options/pdf-options.php:25 plugin-options/pdf-options.php:26
+msgid "Enable pagination."
+msgstr ""
+
+#: plugin-options/pdf-options.php:31
+msgid "Attach PDF quote to the email"
+msgstr "Прикреплять цены в формате PDF к письмам"
+
+#: plugin-options/pdf-options.php:32
+msgid "If checked, the quote will be sent as PDF attachment"
+msgstr "Если отмечено, цены будут отправляться как PDF-вложение"
+
+#: plugin-options/pdf-options.php:37
+msgid "Show Link  Accept/Reject"
+msgstr "Показывать ссылку \"Принять/Отклонить\""
+
+#: plugin-options/pdf-options.php:38
+msgid ""
+"By enabling this option, the link to accept or reject the quote will be "
+"inserted into the PDF. You can enable the link to accept or reject the quote "
+"from the Quote Settings tab."
+msgstr ""
+
+#: plugin-options/pdf-options.php:43
+msgid "Remove the list with products from the email"
+msgstr "Удалить список товаров из письма"
+
+#: plugin-options/pdf-options.php:44
+msgid "Hide quote in the email if it has been sent as PDF attachment"
+msgstr "Не показывать цены в письмах, которые содержат PDF-вложение"
+
+#: plugin-options/pdf-options.php:52
+msgid "PDF Quote Layout"
+msgstr ""
+
+#: plugin-options/pdf-options.php:55
+msgid "Logo"
+msgstr "Логотип"
+
+#: plugin-options/pdf-options.php:56
+msgid ""
+"Upload the logo you want to show in the PDF document. Only .png and .jpeg "
+"extensions are allowed."
+msgstr ""
+
+#: plugin-options/pdf-options.php:61
+msgid "Sender Info in PDF file"
+msgstr "Информация об отправителе в PDF-файлах"
+
+#: plugin-options/pdf-options.php:62
+msgid "Add sender information that have to be shown in the PDF document"
+msgstr ""
+"Добавьте информацию об отправителе, которая будет отображаться в PDF-"
+"документах"
+
+#: plugin-options/pdf-options.php:68
+msgid "Show quote author"
+msgstr ""
+
+#: plugin-options/pdf-options.php:69
+#, fuzzy
+msgid "If checked, the quote will show information of the user who sent it."
+msgstr "Если отмечено, цены будут отправляться как PDF-вложение"
+
+#: plugin-options/pdf-options.php:75
+msgid "Add general text on the footer of pdf document."
+msgstr ""
+
+#: plugin-options/pdf-options.php:76
+msgid ""
+"If checked, a button \"Download PDF\" will be added in the quote detail page."
+msgstr ""
+
+#: plugin-options/quote-options.php:25
+msgid "Enable order creation"
+msgstr "Разрешить создание заказов"
+
+#: plugin-options/quote-options.php:26
+msgid "If checked, the orders will be created. (Recommended)"
+msgstr "Если отмечено, заказы будут создаваться (Рекомендовано)"
+
+#: plugin-options/quote-options.php:35
+msgid "Edit the Quote email options"
+msgstr ""
+
+#: plugin-options/quote-options.php:46
+msgid "Show users the link to accept the quote."
+msgstr ""
+
+#: plugin-options/quote-options.php:47
+msgid ""
+"If checked, \"Accept\" link will be shown in the quote both in the email "
+"received by the user and on My account page."
+msgstr ""
+
+#: plugin-options/quote-options.php:54
+msgid "Write in the text for your \"Accept\" link"
+msgstr "Впишите текст для ссылки \"Принять\""
+
+#: plugin-options/quote-options.php:55
+msgid "Insert the \"Accept\" link label"
+msgstr ""
+
+#: plugin-options/quote-options.php:67
+msgid "Redirect page"
+msgstr "Страница перенаправления"
+
+#: plugin-options/quote-options.php:68
+msgid ""
+"Select the page where to redirect your user after the quote has been "
+"accepted."
+msgstr ""
+
+#: plugin-options/quote-options.php:81
+#, fuzzy
+msgid "Allow adding products to the cart"
+msgstr "В списке нет товаров"
+
+#: plugin-options/quote-options.php:82
+msgid "Allow adding products to the cart after accepting the quote"
+msgstr ""
+
+#: plugin-options/quote-options.php:95
+msgid "Show \"Reject\" link"
+msgstr "Показывать ссылку \"Отклонить\""
+
+#: plugin-options/quote-options.php:96
+msgid ""
+"If checked, \"Reject\" link will be shown in the quote both in the email "
+"received by the user and on My account page."
+msgstr ""
+
+#: plugin-options/quote-options.php:103
+msgid "Write in the text for your \"Reject\" link"
+msgstr "Впишите текст для ссылки \"Отклонить\""
+
+#: plugin-options/quote-options.php:104
+msgid "Insert the \"Reject\" link label."
+msgstr ""
+
+#: plugin-options/quote-options.php:118
+msgid "Edit the Accepted/Rejected Quote Email options"
+msgstr ""
+
+#: plugin-options/quote-options.php:128
+msgid "Generate quotes automatically"
+msgstr "Генерировать цены автоматически"
+
+#: plugin-options/quote-options.php:129
+msgid ""
+"If checked, an automatic quote will be generated and sent. The reply to "
+"quote request will be sent automatically.<br>The price will be the same "
+"amount of products included in the request list."
+msgstr ""
+
+#: plugin-options/quote-options.php:136
+msgid "Payment method"
+msgstr ""
+
+#: plugin-options/quote-options.php:137
+msgid ""
+"Select payment method for quote. Leave this field empty if you want to allow "
+"all gateways enabled in WooCommerce"
+msgstr ""
+
+#: plugin-options/quote-options.php:145
+msgid "Start a cron every"
+msgstr "Включать cron каждые"
+
+#: plugin-options/quote-options.php:146
+msgid "Insert 0 to send the quote immediately."
+msgstr ""
+
+#: plugin-options/quote-options.php:159
+msgid ""
+"Decide the time span for which the plugin will check new quote requests to "
+"be processed automatically."
+msgstr ""
+
+#: plugin-options/quote-options.php:169
+msgid "Minutes"
+msgstr "Минут"
+
+#: plugin-options/quote-options.php:170
+msgid "Hours"
+msgstr "Часов"
+
+#: plugin-options/quote-options.php:171
+msgid "Days"
+msgstr "Дней"
+
+#: plugin-options/quote-options.php:176
+#, fuzzy
+msgid "Set a default expiring date after"
+msgstr "Установить срок актуальности для этой цены"
+
+#: plugin-options/quote-options.php:177
+msgid ""
+"(days). Quotes will automatically get an expiry date based on how many days "
+"you select above. Leave it empty if you don't want quotes to expire."
+msgstr ""
+
+#: plugin-options/quote-options.php:186
+msgid "Add default shipping on quote"
+msgstr "Добавлять способ доставки по умолчанию к ценам"
+
+#: plugin-options/quote-options.php:187
+msgid "If checked the default shipping will be added to the quote"
+msgstr ""
+
+#: plugin-options/quote-options.php:194
+msgid "Enable the option to add multiple shipping cost"
+msgstr ""
+
+#: plugin-options/quote-options.php:195
+msgid ""
+"If checked, from the editor's quote, it is possible to add more shipping "
+"costs that will be summed at checkout"
+msgstr ""
+
+#: plugin-options/request-options.php:15
+msgid "Request a Quote List Settings"
+msgstr ""
+
+#: plugin-options/request-options.php:18
+msgid "Choose what page will include the list."
+msgstr ""
+
+#: plugin-options/request-options.php:20
+msgid ""
+"You can choose from this list the page on which users will see their quote "
+"requests."
+msgstr ""
+
+#: plugin-options/request-options.php:21
+msgid "Please note"
+msgstr ""
+
+#: plugin-options/request-options.php:22
+msgid ""
+": by choosing a page different from the default one (request a quote) and "
+"allow users to view their requests list, you will need to insert the "
+"following shortcode [yith_ywraq_request_quote] "
+msgstr ""
+
+#: plugin-options/request-options.php:29
+msgid "Show SKU on list table"
+msgstr "Показывать идентификатор товарной позиции в таблице"
+
+#: plugin-options/request-options.php:30
+msgid ""
+"If checked, the sku will be added near the title of product in the request "
+"list"
+msgstr ""
+"Если отмечено, идентификатор товарной позиции будет отображаться рядом с "
+"названием продукта в таблице"
+
+#: plugin-options/request-options.php:36
+msgid "Show preview thumbnail on email list table"
+msgstr "Показывать миниатюру товара в таблице внутри письма"
+
+#: plugin-options/request-options.php:37
+msgid ""
+"If checked, the thumbnail will be added in the table of request and in the "
+"proposal email"
+msgstr ""
+"Если отмечено, то миниатюры товаров будут отображаться в письмах запросов и "
+"предложений"
+
+#: plugin-options/request-options.php:44
+msgid "Show old price on list table"
+msgstr "Показывать старую цену в таблице"
+
+#: plugin-options/request-options.php:45
+msgid ""
+"If checked, the old price will be showed in the table of request and in the "
+"proposal email"
+msgstr ""
+"Если отмечено, старая цены будет показана на странице запроса цен и в письме "
+"предложения"
+
+#: plugin-options/request-options.php:52
+msgid "Show \"Return to Shop\" button"
+msgstr "Показывать кнопку \"Вернуться в магазин\""
+
+#: plugin-options/request-options.php:53
+msgid ""
+"If checked, the \"Return to Shop\" button will be showed in the request list"
+msgstr ""
+
+#: plugin-options/request-options.php:60
+msgid "\"Return to Shop\" button label"
+msgstr "Текст на кнопке \"Вернуться в магазин\""
+
+#: plugin-options/request-options.php:61
+msgid ""
+"Edit the text of the button that will allow users to go back to the shop "
+"page."
+msgstr ""
+
+#: plugin-options/request-options.php:68
+msgid "Return to Shop"
+msgstr "Вернуться в магазин"
+
+#: plugin-options/request-options.php:69
+msgid "\"Return to Shop\" URL"
+msgstr "Куда перенаправит кнопка \"Вернуться в магазин\""
+
+#: plugin-options/request-options.php:70
+msgid "Define the URL to assign to the button."
+msgstr ""
+
+#: plugin-options/request-options.php:79
+msgid "Show \"Update List\" button"
+msgstr ""
+
+#: plugin-options/request-options.php:80
+msgid ""
+"If checked, the \"Update List\" button will be showed in the request list"
+msgstr ""
+
+#: plugin-options/request-options.php:85
+msgid "\"Update List\" button label"
+msgstr ""
+
+#: plugin-options/request-options.php:86
+msgid "Edit the text of the button that will allow users to update the list."
+msgstr ""
+
+#: plugin-options/request-options.php:93
+msgid "Update List"
+msgstr "Обновить список"
+
+#: plugin-options/request-options.php:94
+msgid "Hide column Total"
+msgstr ""
+
+#: plugin-options/request-options.php:95
+msgid "Hide the column Total of single product."
+msgstr ""
+
+#: plugin-options/request-options.php:101
+#, fuzzy
+msgid "Show total in quote list"
+msgstr "Спрятать колонку цен в списке заказа"
+
+#: templates/admin/ywraq-exclusions-cat-table.php:29
+msgid "Category exclusion list"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-cat-table.php:42
+msgid "Select categories to exclude"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-cat-table.php:48
+msgid "Search category..."
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-cat-table.php:54
+#: templates/admin/ywraq-exclusions-prod-table.php:53
+#: templates/admin/ywraq-exclusions-tag-table.php:56
+msgid "Exclude"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-prod-table.php:29
+msgid "Product exclusion list"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-prod-table.php:42
+msgid "Select products to exclude"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-prod-table.php:48
+msgid "Search product..."
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-table.php:25
+msgid " Exclusion List"
+msgstr ""
+
+#: templates/admin/ywraq-exclusions-tag-table.php:29
+#, fuzzy
+msgid "Tag exclusion list"
+msgstr "Список исключений"
+
+#: templates/admin/ywraq-exclusions-tag-table.php:42
+#, fuzzy
+msgid "Select tags to exclude"
+msgstr "Исключить товары"
+
+#: templates/admin/ywraq-exclusions-tag-table.php:50
+msgid "Search tag..."
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:33
+#: templates/admin/ywraq-raqform-table.php:46
+#: templates/admin/ywraq-raqform-table.php:60
+msgid "Type"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:43
+msgid "ID"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:52
+#: templates/admin/ywraq-raqform-table.php:47
+#: templates/admin/ywraq-raqform-table.php:61
+msgid "Label"
+msgstr "Название"
+
+#: templates/admin/ywraq-fields-edit.php:56
+#: templates/admin/ywraq-raqform-table.php:48
+#: templates/admin/ywraq-raqform-table.php:62
+msgid "Placeholder"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:62
+msgid ""
+"You can use the shortcode [terms] and [privacy_policy] (from WooCommerce "
+"3.4.0)"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:65
+msgid "Allowed extensions"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:67
+msgid "Add a list of allowed extensions comma separated."
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:70
+msgid "Max filesize (MB):"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:72
+msgid "Add the max filesize of upload file"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:75
+msgid "Options"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:77
+msgid ""
+"Separate options with pipes (|) and key from value using (::). Es. key::"
+"value|"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:81
+msgid "Position"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:92
+msgid "Class"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:94
+#: templates/admin/ywraq-fields-edit.php:99
+msgid "Separate classes with commas"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:97
+msgid "Label class"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:102
+msgid "Connect field to"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:113
+msgid "Validation"
+msgstr ""
+
+#: templates/admin/ywraq-fields-edit.php:127
+#, fuzzy
+msgid "Checked"
+msgstr "Оформление заказа"
+
+#: templates/admin/ywraq-fields-edit.php:134
+#: templates/admin/ywraq-raqform-table.php:51
+#: templates/admin/ywraq-raqform-table.php:65
+msgid "Required"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:25
+msgid "Enter field name"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:27
+msgid "Add field"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:34
+#: templates/admin/ywraq-raqform-table.php:128
+msgid "Select an action"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:35
+#: templates/admin/ywraq-raqform-table.php:115
+#: templates/admin/ywraq-raqform-table.php:116
+#: templates/admin/ywraq-raqform-table.php:129
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:36
+#: templates/admin/ywraq-raqform-table.php:115
+#: templates/admin/ywraq-raqform-table.php:116
+#: templates/admin/ywraq-raqform-table.php:130
+msgid "Disable"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:49
+#: templates/admin/ywraq-raqform-table.php:63
+msgid "Validation rules"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:50
+#: templates/admin/ywraq-raqform-table.php:64
+msgid "Connected to"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:113
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:120
+msgid "Remove"
+msgstr ""
+
+#: templates/admin/ywraq-raqform-table.php:135
+msgid "Save changes"
+msgstr ""
+
+#: templates/emails/change-status.php:29
+msgid "The Proposal #%s has been accepted"
+msgstr "Предложение #%s было принято"
+
+#: templates/emails/change-status.php:31
+#, fuzzy
+msgid "The Proposal #%s has been rejected."
+msgstr "Предложение #%s было отклонено"
+
+#: templates/emails/change-status.php:35
+#: templates/emails/request-quote-customer.php:40
+#: templates/emails/request-quote.php:40
+msgid "You can see details here: <a href=\"%s\">#%s</a>"
+msgstr "Вы можете ознакомиться с деталями тут: <a href=\"%s\">#%s</a>"
+
+#: templates/emails/plain/change-status.php:21
+msgid "The Proposal #%d has been accepted"
+msgstr "Предложение #%d было принято"
+
+#: templates/emails/plain/change-status.php:23
+#, fuzzy
+msgid "The Proposal #%d has been rejected. %s"
+msgstr "Предложение #%d было отклонено"
+
+#: templates/emails/plain/quote-reminder.php:18
+#: templates/emails/plain/quote.php:18
+msgid "%s n. %d"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:22
+#: templates/emails/plain/quote.php:22
+msgid "Request date: %s"
+msgstr "Дата запроса: %s"
+
+#: templates/emails/plain/quote-reminder.php:25
+#: templates/emails/plain/quote.php:25
+msgid "Expiration date: %s"
+msgstr "Истечёт: %s"
+
+#: templates/emails/plain/quote-reminder.php:82
+#: templates/emails/plain/quote.php:82
+#: templates/emails/plain/request-quote.php:33
+#: templates/emails/quote-reminder.php:87 templates/emails/quote.php:87
+#: templates/emails/request-quote.php:48 templates/myaccount/view-quote.php:267
+msgid "Customer's details"
+msgstr "Информация от клиента"
+
+#: templates/emails/plain/quote-reminder.php:84
+#: templates/emails/plain/quote.php:84
+#: templates/emails/plain/request-quote-customer.php:35
+#: templates/emails/plain/request-quote.php:35
+#: templates/emails/quote-reminder.php:89 templates/emails/quote.php:89
+#: templates/myaccount/view-quote.php:291
+msgid "Name:"
+msgstr "Имя:"
+
+#: templates/emails/plain/quote-reminder.php:88
+#: templates/emails/plain/quote.php:88 templates/myaccount/view-quote.php:294
+msgid "Company:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:92
+#: templates/emails/plain/quote.php:92 templates/myaccount/view-quote.php:298
+msgid "Address:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:96
+#: templates/emails/plain/quote.php:96 templates/myaccount/view-quote.php:302
+msgid "City:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:100
+#: templates/emails/plain/quote.php:100 templates/myaccount/view-quote.php:306
+msgid "Postcode:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:110
+#: templates/emails/plain/quote.php:110
+msgid "State:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:117
+#: templates/emails/plain/quote.php:117 templates/myaccount/view-quote.php:317
+msgid "Country:"
+msgstr ""
+
+#: templates/emails/plain/quote-reminder.php:121
+#: templates/emails/plain/quote.php:121
+#: templates/emails/plain/request-quote-customer.php:37
+#: templates/emails/plain/request-quote.php:37
+#: templates/emails/quote-reminder.php:94 templates/emails/quote.php:94
+#: templates/myaccount/view-quote.php:321
+msgid "Email:"
+msgstr "E-mail^"
+
+#: templates/emails/plain/quote-reminder.php:125
+#: templates/emails/plain/quote.php:125 templates/emails/quote-reminder.php:103
+#: templates/emails/quote.php:103
+msgid "Billing Phone:"
+msgstr "Номер телефона:"
+
+#: templates/emails/plain/quote-reminder.php:130
+#: templates/emails/plain/quote.php:130 templates/emails/quote-reminder.php:99
+#: templates/emails/quote.php:99
+msgid "Billing VAT:"
+msgstr "НДС:"
+
+#: templates/emails/plain/request-quote-customer.php:28
+#: templates/emails/request-quote-customer.php:45
+#, fuzzy
+msgid "Your message"
+msgstr "Сообщение клиента"
+
+#: templates/emails/plain/request-quote-customer.php:33
+#: templates/emails/request-quote-customer.php:48
+#, fuzzy
+msgid "Your details"
+msgstr "Информация от клиента"
+
+#: templates/emails/plain/request-quote-customer.php:69
+#: templates/emails/plain/request-quote.php:69
+msgid "No"
+msgstr "Нет"
+
+#: templates/emails/plain/request-quote-customer.php:84
+#: templates/emails/plain/request-quote.php:89
+#: templates/emails/request-quote.php:148
+msgid "Customer's additional fields"
+msgstr "Дополнительные поля клиента"
+
+#: templates/emails/quote-reminder.php:38 templates/emails/quote.php:38
+msgid "%s n. %s"
+msgstr ""
+
+#: templates/emails/quote-reminder.php:43 templates/emails/quote.php:43
+#: templates/myaccount/view-quote.php:86
+msgid "Request date"
+msgstr "Дата запроса"
+
+#: templates/emails/quote-reminder.php:45 templates/emails/quote.php:45
+#: templates/myaccount/view-quote.php:142 templates/pdf/quote-header.php:114
+msgid "Expiration date"
+msgstr "Истечёт"
+
+#: templates/emails/quote-table.php:42
+#: templates/emails/request-quote-table.php:46 templates/pdf/quote-table.php:38
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: templates/emails/quote-table.php:45
+#: templates/emails/request-quote-table.php:51 templates/pdf/quote-table.php:42
+#: templates/request-quote-view.php:40 templates/request-quote-view.php:119
+#: templates/request-quote-view.php:246
+msgid "Quantity"
+msgstr "Количество"
+
+#: templates/emails/quote-table.php:46
+#: templates/emails/request-quote-table.php:54 templates/pdf/quote-table.php:43
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: templates/emails/request-quote-customer.php:138
+#, fuzzy
+msgid "Your additional fields"
+msgstr "Дополнительные поля клиента"
+
+#: templates/emails/request-quote-table.php:32
+msgid "Request a Quote #%s"
+msgstr "Заказ цен #%s"
+
+#: templates/emails/request-quote-table.php:167
+#: templates/request-quote-view.php:318
+msgid "Total:"
+msgstr "Итого:"
+
+#: templates/emails/request-quote-table.php:172
+#: templates/request-quote-view.php:324
+msgid "(includes %s %s)"
+msgstr ""
+
+#: templates/myaccount/my-quotes.php:50
+msgid "Recent Quotes"
+msgstr "Последние заказы"
+
+#: templates/myaccount/my-quotes.php:59 templates/myaccount/my-quotes.php:92
+msgid "Status"
+msgstr "Статус"
+
+#: templates/myaccount/my-quotes.php:61
+msgid "Quote"
+msgstr "Запрос"
+
+#: templates/myaccount/my-quotes.php:95
+msgid "Order Number"
+msgstr "Номер заказа"
+
+#: templates/myaccount/my-quotes.php:112 templates/myaccount/view-quote.php:90
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: templates/myaccount/my-quotes.php:134
+msgid "View"
+msgstr "Просмотр"
+
+#: templates/myaccount/my-quotes.php:154
+msgid "No quote request available."
+msgstr "Нет доступных заказов цен."
+
+#: templates/myaccount/view-quote.php:31
+msgid "This Quote doesn't exist."
+msgstr "Заказ не существует."
+
+#: templates/myaccount/view-quote.php:44
+msgid "You do not have permission to read the quote."
+msgstr "У вас нет разрешения на просмотр заказа."
+
+#: templates/myaccount/view-quote.php:50
+msgid "This Quote was deleted by administrator."
+msgstr "Заказ был удалён администратором."
+
+#: templates/myaccount/view-quote.php:103
+#: templates/myaccount/view-quote.php:114
+#: templates/myaccount/view-quote.php:135
+msgid "Download PDF"
+msgstr "Скачать PDF"
+
+#: templates/myaccount/view-quote.php:126
+msgid "Order Status:"
+msgstr "Статус заказа:"
+
+#: templates/myaccount/view-quote.php:130
+#, fuzzy
+msgid "Customer reason:"
+msgstr "Информация о клиенте"
+
+#: templates/myaccount/view-quote.php:138
+msgid "Quote Details"
+msgstr "Детали заказа"
+
+#: templates/myaccount/view-quote.php:152 templates/request-quote-view.php:42
+#: templates/request-quote-view.php:320
+msgid "Total"
+msgstr "Итого"
+
+#: templates/myaccount/view-quote.php:294
+msgid "Company"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:298
+#, fuzzy
+msgid "Address"
+msgstr "Платёжный адрес"
+
+#: templates/myaccount/view-quote.php:302
+msgid "City"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:306
+msgid "Postcode"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:312
+msgid "State/Province:"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:312
+msgid "State/Province"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:325
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: templates/myaccount/view-quote.php:325
+msgid "Telephone"
+msgstr "Телефон"
+
+#: templates/myaccount/view-quote.php:329
+msgid "VAT:"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:329
+msgid "VAT"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:342
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: templates/myaccount/view-quote.php:350
+msgid "Customer's Message:"
+msgstr "Сообщение от клиента"
+
+#: templates/myaccount/view-quote.php:351
+msgid "Customer's Message"
+msgstr ""
+
+#: templates/myaccount/view-quote.php:369
+msgid "Administrator's Message:"
+msgstr "Сообщение от администратора"
+
+#: templates/myaccount/view-quote.php:370
+msgid "Administrator's Message"
+msgstr ""
+
+#: templates/pdf/quote-footer.php:24
+msgid "Page"
+msgstr "Страница"
+
+#: templates/pdf/quote-header.php:65
+msgid "From"
+msgstr "От"
+
+#: templates/pdf/quote-header.php:90
+msgid "Customer"
+msgstr "Клиент"
+
+#: templates/pdf/quote-table.php:41
+msgid "Unit Price"
+msgstr "Цена товара"
+
+#: templates/request-quote-default-form.php:23
+msgid "Send the request"
+msgstr "Отправить запрос"
+
+#: templates/request-quote-default-form.php:48
+msgid "Create an account?"
+msgstr "Создать аккаунт?"
+
+#: templates/request-quote-default-form.php:80
+msgid "Send Your Request"
+msgstr "Отправить запрос"
+
+#: templates/request-quote-message.php:26
+msgid "Are you sure you want to reject quote No. %d?"
+msgstr "Вы уверены, что хотите отклонить заказ No. %d?"
+
+#: templates/request-quote-message.php:34
+msgid "Please, feel free to send us your feedback/reasons:"
+msgstr ""
+
+#: templates/request-quote-message.php:37
+msgid "Yes, I want to reject the quote"
+msgstr "Да, я хочу отклонить заказ"
+
+#: templates/request-quote-view.php:149
+#: templates/widgets/mini-quote-list.php:66 templates/widgets/quote-list.php:58
+msgid "Remove this item"
+msgstr "Удалить из списка"
+
+#: templates/request-quote.php:30
+msgid "You do not have access to this page"
+msgstr "У вас недостаточно прав для доступа к этой странице!"
+
+#: templates/widgets/mini-quote-list.php:50 templates/widgets/quote-list.php:43
+msgid "No products in the list"
+msgstr "В списке нет товаров"
+
+#: templates/widgets/mini-quote-list.php:105
+#: templates/widgets/quote-list.php:98
+msgid "View list"
+msgstr "Перейти к списку"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "YITH WooCommerce Request A Quote Premium"
+msgstr "Список YITH WooCommerce Request a Quote"
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-request-a-quote"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The <code><strong>YITH WooCommerce Request A Quote</strong></code> plugin "
+"lets your customers ask for an estimate of a list of products they are "
+"interested into. It allows hiding price and/or add to cart button so that "
+"your customers can request a quote on every product page. <a href=\"https://"
+"yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop "
+"on <strong>YITH</strong></a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""
+
+#~ msgid ""
+#~ "If checked, after submitting a request, customers will be redirected to "
+#~ "the Thank-you page"
+#~ msgstr ""
+#~ "Если стоит галочка, то клиенты будут перенаправляться на страницу "
+#~ "благодарности после отправки запроса"
+
+#, fuzzy
+#~| msgid "Request date"
+#~ msgid "Request a"
+#~ msgstr "Дата запроса"
+
+#~ msgid "%s is a required field"
+#~ msgid_plural "%s are required fields"
+#~ msgstr[0] "%s — обязательное поле"
+#~ msgstr[1] "%s — обязательных поля"
+#~ msgstr[2] "%s — обязательных полей"
+
+#~ msgid "Please choose product options&hellip;"
+#~ msgstr "Пожалуйста, укажите опции товара&hellip;"
+
+#~ msgid "Email with Quote"
+#~ msgstr "Письмо с запросом"
+
+#~ msgid "Plugin Documentation"
+#~ msgstr "Документация к плагину"
+
+#~ msgid "Sorry, invalid shipping method."
+#~ msgstr "Некорректный способ доставки."
+
+#~ msgid ""
+#~ "Sorry, you have changed content of your cart. Discount has now been "
+#~ "removed from your order"
+#~ msgstr ""
+#~ "Вы изменили содержимое корзины. Скидки были удалены из вашего заказа"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgid "Billing Address:"
+#~ msgstr "Платёжный адрес:"
+
+#~ msgid "Customer's additional field:"
+#~ msgstr "Дополнительное поле клиента"
+
+#~ msgid "Upload the logo you want to show in the PDF document"
+#~ msgstr "Загрузите логотип, который будет отображаться в PDF-документах"
+
+#~ msgid "Notes on your request..."
+#~ msgstr "Комментарий к вашему заказу..."
+
+#~ msgid "Layout"
+#~ msgstr "Расположение"
+
+#~ msgid "Product added!"
+#~ msgstr "Товар добавлен!"
+
+#~ msgid "Hide \"Add to Quote\""
+#~ msgstr "Скрыть \"Добавить в список запроса цен\""
+
+#~ msgid "An error as occurred creating your request. Please try again."
+#~ msgstr "Во время создания запроса произошла ошибка. Попробуйте ещё раз."
+
+#~ msgid "Choose format for the email that has to be sent."
+#~ msgstr "Выберите формат письма для отправки."
+
+#~ msgid "Plain text"
+#~ msgstr "Простой текст"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Multipart"
+#~ msgstr "Составное"
+
+#~ msgid ""
+#~ "Choose one. You can also add forms from YIT Contact Form or Contact Form "
+#~ "7 that must be installed and activated."
+#~ msgstr ""
+#~ "Выберите из списка. Вы также можете добавлять формы из YIT Contact Form "
+#~ "или Contact Form 7 (они должны быть установлены и активированы)."
+
+#~ msgid ""
+#~ "To use this feature, YIT Contact Form or Contact Form 7 must be installed "
+#~ "and activated."
+#~ msgstr ""
+#~ "Для использования этой возможности YIT Contact Form или Contact Form 7 "
+#~ "должны быть установлены и активированы."
+
+#~ msgid "Additional text field for default form"
+#~ msgstr "Дополнительное текстовое поле для формы по умолчанию"
+
+#~ msgid "Required Field"
+#~ msgstr "Обязательное поле"
+
+#~ msgid "Additional text field label for default form"
+#~ msgstr "Название дополнительного текстового поля для формы по умолчанию"
+
+#~ msgid "Additional upload file field for default form"
+#~ msgstr "Дополнительное поле для загрузки файла для формы по умолчанию"
+
+#~ msgid "Additional upload field label for default form"
+#~ msgstr "Название дополнительного поля загрузки файла для формы по умолчанию"
+
+#~ msgid "Upload a file"
+#~ msgstr "Загрузить файл"
+
+#~ msgid "Email settings"
+#~ msgstr "Настройки E-mail"
+
+#~ msgid "PDF Quote settings"
+#~ msgstr "Настройки PDF цен"
+
+#~ msgid "Allow creating PDF documents"
+#~ msgstr "Разрешить создание PDF-документов"
+
+#~ msgid "Allow PDF document download in My Account page"
+#~ msgstr "Разрешить скачивание PDF-документов на странице \"Мой аккаунт\""
+
+#~ msgid "Add general text on the footer of pdf document"
+#~ msgstr "Добавить текст в футер PDF-документов"
+
+#~ msgid "Show pagination"
+#~ msgstr "Показывать постраничную навигацию"
+
+#~ msgid "Quote settings"
+#~ msgstr "Настройки цен"
+
+#~ msgid "Show \"Accept\" link"
+#~ msgstr "Показывать ссылку \"Принять\""
+
+#~ msgid "If checked, \"Accept\" link will be shown in the quote"
+#~ msgstr ""
+#~ "Если отмечено, ссылка \"Принять\" будет отображаться рядом с ценами "
+
+#~ msgid ""
+#~ "Select the page where to redirect your users after the quote has been "
+#~ "accepted"
+#~ msgstr ""
+#~ "Укажите, куда перенаправлять пользователей после того, как они согласятся "
+#~ "с ценами"
+
+#~ msgid "If checked, \"Reject\" link will be shown in the quote"
+#~ msgstr ""
+#~ "Если отмечено, ссылка \"Отклонить\" будет отображаться рядом с ценами "
+
+#~ msgid "If checked, an automatic quote will be generated and sent"
+#~ msgstr ""
+#~ "Если отмечено, цены будут генерироваться и отправляться автоматически"
+
+#~ msgid "If checked the defaul shipping will be added to the quote"
+#~ msgstr ""
+#~ "Если отмечено, способ доставки по умолчанию будет добавляться к ценам"
+
+#~ msgid "General settings"
+#~ msgstr "Основные настройки"
+
+#~ msgid "Page contents: [yith_ywraq_request_quote]"
+#~ msgstr ""
+#~ "Выберите страницу со списком. На странице должен быть шорткод: "
+#~ "[yith_ywraq_request_quote]"
+
+#~ msgid "Button Action after click"
+#~ msgstr "Действие после нажатия кнопки"
+
+#~ msgid "After click the button \"Request a Quote\" go to the list page"
+#~ msgstr ""
+#~ "Перенаправлять на страницу со списком товаров после нажатия кнопки "
+#~ "\"Заказать цены\""
+
+#~ msgid "Hide button for selected products"
+#~ msgstr "Спрятать кнопку для выбранных товаров"
+
+#~ msgid "Exclude selected products (See tab \"Exclusions\")"
+#~ msgstr "Исключить выбранные товары (См. вкладку \"Исключения\")"
+
+#~ msgid "Reverse exclusion list (Show button for selected products)"
+#~ msgstr ""
+#~ "Реверсировать исключения (наоборот, показывать кнопку для выбранных "
+#~ "товаров)"
+
+#~ msgid "Show button only on out of stock products "
+#~ msgstr "Показывать кнопку только для товаров, которых нет в наличии"
+
+#~ msgid "Product settings"
+#~ msgstr "Настройки товаров"
+
+#~ msgid "Hide column total in quote list"
+#~ msgstr "Спрятать колонку цен в списке заказа"
+
+#~ msgid "User settings"
+#~ msgstr "Настройки пользователей"
+
+#~ msgid "Guests and logged-in users"
+#~ msgstr "Гостям и авторизованным пользователям"
+
+#~ msgid "User Role"
+#~ msgstr "Роли пользователей"
+
+#~ msgid "Layout settings"
+#~ msgstr "Настройки расположения"
+
+#~ msgid "Button/Link text"
+#~ msgstr "Текст кнопки/ссылки"
+
+#~ msgid "Button background color on hover "
+#~ msgstr "Цвет фона кнопки при наведении курсора"
+
+#~ msgid "Data Settings"
+#~ msgstr "Настройки таблицы"
+
+#~ msgid ""
+#~ "If checked, the \"Return to Shop\" button will be showed in the quote "
+#~ "table"
+#~ msgstr ""
+#~ "Если отмечено, кнопка \"Вернуться в магазин\" будет отображаться под "
+#~ "таблицей заказа цен"
+
+#~ msgid "\"Return to Shop\" label"
+#~ msgstr "Что будет написано на кнопке \"Вернуться в магазин\""
+
+#~ msgid "The product is already in quote request list!"
+#~ msgstr "Товар уже в списке запроса цен!"
+
+#~ msgid "product"
+#~ msgstr "товар"
+
+#~ msgid "products"
+#~ msgstr "товары"
+
+#~ msgid "Hide \"Add to quote\""
+#~ msgstr "Спрятать \"Добавить к заказу\""
+
+#~ msgid "Remove from exclusions"
+#~ msgstr "Удалить из исключений"
+
+#~ msgid "Edit product"
+#~ msgstr "Изменить товар"
+
+#~ msgid "Remove from list"
+#~ msgstr "Удалить из списка"
+
+#~ msgid "%s product removed successfully"
+#~ msgid_plural "%s products removed successfully"
+#~ msgstr[0] "%s товар успешно удалён"
+#~ msgstr[1] "%s товара успешно удалёны"
+#~ msgstr[2] "%s товаров успешно удалёны"
+
+#~ msgid "%s product added successfully"
+#~ msgid_plural "%s products added successfully"
+#~ msgstr[0] "%s товар успешно добавлен"
+#~ msgstr[1] "%s товара успешно добавлены"
+#~ msgstr[2] "%s товаров успешно добавлены"
+
+#~ msgid "Product updated successfully"
+#~ msgstr "Товар успешно обновлён"
+
+#~ msgid "Add Products"
+#~ msgstr "Добавить товары"
+
+#~ msgid "Selection type"
+#~ msgstr "Выбор по"
+
+#~ msgid "Select by product"
+#~ msgstr "Выбор по товарам"
+
+#~ msgid "Select by category"
+#~ msgstr "Выбор по категориям"
+
+#~ msgid "Categories to exclude"
+#~ msgstr "Исключить категории"
+
+#~ msgid "Search for a category&hellip;"
+#~ msgstr "Поиск категорий&hellip;"
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "Поиск по товарам&hellip;"
+
+#~ msgid "Hide \"Add to quote\" button"
+#~ msgstr "Спрятать кнопку \"Заказать цены\""
+
+#~ msgid "Add product to exclusions"
+#~ msgstr "Добавить товар в исключения"
+
+#~ msgid "Update product exclusion"
+#~ msgstr "Обновить исключения товаров"
+
+#~ msgid "Return to exclusion list"
+#~ msgstr "Вернуться к списку исключений"
+
+#~ msgid "Select at least one product"
+#~ msgstr "Выберите хотя бы один продукт"
+
+#~ msgid "Select at least one category"
+#~ msgstr "Выберите хотя бы одну категорию"
+
+#~ msgid "Select the option"
+#~ msgstr "Выберите значение"
+
+#, fuzzy
+#~| msgid "Are you sure you want to reject quote No. %d?"
+#~ msgid "Are you sure that you want reject the quote n."
+#~ msgstr "Вы уверены, что хотите отклонить заказ No. %d?"

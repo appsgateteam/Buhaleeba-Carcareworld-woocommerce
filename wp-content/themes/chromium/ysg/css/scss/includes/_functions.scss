@@ -1,0 +1,55 @@
+///////@functions------------------------------------------------------------------
+@function color($color, $tone: 'base') {
+    @return map-get(map-get($colors, $color), $tone);
+}
+
+//@mixin ---------------------------------------------------------------------------
+@mixin normal-transition($trans_time:0.5s) {
+    transition: all ease-in-out $trans_time;
+}
+
+@mixin normal-flex($jcontent: center,$aitems: center, $acontent: center){
+    display: flex;
+    justify-content: $jcontent;
+    align-content: $acontent;
+    align-items: $aitems;
+    flex-wrap: wrap;
+}
+
+@mixin normal-button ($button_width: 100%){
+    width: $button_width;
+    color: #fff;
+    background-color: color(brand, lightblue);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 42px;
+    display: block;
+    @include normal-transition;
+}
+
+@mixin text-align ($align: "left"){
+    text: $align;
+}
+
+@mixin text-ellipsis (){
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@mixin reset-css (){
+    width: 100%;
+    box-sizing: border-box;
+    color: inherit;
+    border-radius: 0;
+    border: none;
+    height: auto;
+    width: auto;
+    margin: 0;
+    font-size: 1rem;
+}
+@mixin normal-backimage($bs: auto, $br: repeat, $bp: center){
+    background-size: $bs;
+    background-position: $bp;
+    background-repeat: $br;
+}

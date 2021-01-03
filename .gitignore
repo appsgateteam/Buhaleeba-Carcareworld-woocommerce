@@ -1,0 +1,13 @@
+.htaccess
+wp-config.php
+php-errors.log
+.user.ini
+error_log
+*.log
+php.ini
+seedprod-coming-soon-pro-5/
+cgi-bin/
+.well-known/
+.tmb/
+.quarantine/
+wordpress/

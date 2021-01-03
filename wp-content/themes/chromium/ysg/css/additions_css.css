@@ -1,0 +1,330 @@
+@media screen and (min-width: 768px) {
+    .blog .site-sidebar {
+        padding-top: 4em;
+    }
+
+    .archive:not(.woocommerce) .site-sidebar {
+        padding-top: 65px;
+    }
+
+    .site-branding .hgroup-sidebar .widget {
+        margin: 0 25px 0 0;
+    }
+
+    .site-branding .hgroup-sidebar .widget.widget_search {
+        width: 500px;
+        max-width: 100%;
+    }
+
+    .widget_tz_contacts ul li.a-logo {
+        max-width: 55%;
+    }
+}
+
+@media screen and (min-width: 801px) {
+    .logo-pos-left .site-branding .hgroup-sidebar .widget.widget_search {
+        width: 500px;
+    }
+
+    .tz-sales-carousel .img-wrapper img {
+        max-width: 75%;
+    }
+}
+
+.site .dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp .dgwt-wcas-search-submit {
+    background-color: #ffb700;
+    color: #262729;
+    font-weight: 500;
+}
+
+.site .dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp .dgwt-wcas-search-submit:hover,
+.site .dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp .dgwt-wcas-search-submit:focus,
+.site .dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp .dgwt-wcas-search-submit:active {
+    background-color: #262729;
+    color: #fff;
+}
+
+.elementor-1961 .elementor-element.elementor-element-01e8704 iframe {
+    height: 450px !important;
+}
+
+.footer-widgets .widget-area .widget.widget_mailchimpsf_widget+.widget {
+    margin-top: 99px;
+}
+
+.elementor-element-6ba5f732 .tz-testimonials {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.tz-categories-grid .title-wrapper {
+    margin-bottom: 10px;
+}
+
+.tz-hoverable-tabs li.active .inner-content,
+.tz-hoverable-tabs li.active .inner-content .elementor-top-section {
+    min-height: 562px;
+}
+
+.site-logo img {
+    max-width: 200px;
+}
+
+#ysg-top_categories h5 {
+    font-size: 16px;
+}
+
+#ysg-top_categories ul {
+    padding: 0;
+    margin: 0;
+}
+
+#ysg-top_categories ul li {
+    display: block;
+    margin-bottom: 7px;
+}
+
+#ysg-top_categories ul li a {
+    display: block;
+    color: #666;
+    font-size: 14px;
+}
+
+#ysg-top_categories ul li a:hover {
+    color: #ffb700;
+}
+
+@media screen and (max-width: 500px) {
+
+    .elementor-2392 .elementor-element.elementor-element-105ae5e3,
+    .elementor-2325 .elementor-element.elementor-element-105ae5e3,
+    .elementor-2233 .elementor-element.elementor-element-5e9101f6 {
+        background-size: contain;
+    }
+}
+
+.cart-collaterals {
+    display: flex !important;
+    flex-direction: column-reverse;
+}
+
+.cart_totals {
+    max-width: 40%;
+    min-width: 500px;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.ysg-product-brands-section {}
+
+.all-brands {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-content: flex-start;
+    margin: 0px -3.1%;
+}
+
+.all-brands .one_brand {
+    width: 15%;
+    margin-right: 2%;
+    margin-bottom: 20px;
+}
+
+.all-brands .one_brand a {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.all-brands .one_brand a img {
+    width: 100%;
+    display: block;
+}
+
+
+li.product.product-category {
+    display: none;
+}
+
+.site-header {
+    margin-bottom: 7px !important;
+}
+
+.cwginstock-panel-heading h4 {
+    color: #fff;
+    color: #666 !important;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.cwginstock-subscribe-form .panel-primary {
+    border-color: #337ab7;
+    border: solid 1px #eee;
+}
+
+.cwginstock-subscribe-form .panel-primary {
+    border-color: #337ab7;
+    border: solid 1px #eee;
+}
+
+.cwginstock-subscribe-form .panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.wishlist-compare-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    position: relative;
+    display: none;
+}
+
+.custom-price-prefix {
+    font-size: 10px;
+    color: #666;
+}
+
+.cross-sells ul.products.columns-2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#payfort_fort_cc_form .payfort-fort-cc input {
+    position: relative !important;
+    background-color: #fff !important;
+    height: 32px !important;
+    line-height: 32px !important;
+    border: solid 1px #eee !important;
+    left: 0;
+    z-index: 1;
+}
+
+#payfort_fort_cc_form .payfort-fort-cc .description {
+    display: block;
+    width: 100%;
+}
+
+.payment_method_payfort fieldset {
+    border: none;
+    padding: 10px 0;
+}
+
+#sidebar-nav {
+    padding: 0;
+    position: relative;
+    margin: 0;
+    top: 0;
+    left: 0;
+}
+
+#sidebar-nav .widget_tz_login_register {
+    margin: 0;
+}
+
+#sidebar-nav .tz-login-heading.inline .my-account::after {
+    padding: 0;
+    margin: 0 10px;
+}
+
+#sidebar-nav .tz-login-heading.inline .my-account {
+    font-weight: bold;
+}
+
+#sidebar-nav .tz-login-heading.inline .my-account:hover,
+#sidebar-nav .tz-login-heading.inline .my-account:active {
+    color: #fff;
+    text-shadow: 0 0 3px #999;
+}
+
+#sidebar-nav .tz-login-heading.inline .log-out:hover {
+    color: #262729;
+    text-shadow: 0 0 3px #999;
+}
+
+#sidebar-nav .tz-login-heading .user-icon {
+    display: none !important;
+}
+
+#sidebar-nav .tz-login-heading {
+    min-width: 0px;
+    display: flex;
+}
+
+#sidebar-nav .tz-login-heading.inline .delimiter {
+    font-size: 10px;
+    padding: 0 10px;
+}
+
+.woocommerce-terms-and-conditions {
+    text-align: left;
+    font-size: 13px;
+}
+
+#sidebar-nav {
+    padding: 0;
+    position: relative;
+    margin: 0;
+    top: 0;
+    left: 0;
+    height: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#sidebar-nav {
+    background: #262729;
+}
+
+element {}
+
+#sidebar-nav .tz-login-heading.inline .logged-in-as {
+    display: none;
+    line-height: normal;
+    color: #fff;
+    padding-right: 2px;
+}
+
+#sidebar-nav .tz-login-heading.inline .logged-in-as span {
+    display: flex;
+    padding-right: 5px;
+    color: #ddd;
+}
+
+#sidebar-nav .tz-login-heading .tz-login-actions {
+    margin-top: 0;
+}
+
+#tz_woo_cart-1 .heading .subtotal {
+    color: #000;
+}
+
+#tz_woo_cart-1 .heading::before {
+    color: #888;
+}
+
+#tz_woo_cart-1 .heading .widget-heading {
+    color: #888;
+}
+
+.tz-login-heading.inline .log-out {
+    color: #ffb700;
+}
+
+.tz-login-heading.inline .log-out:hover {
+    color: #999 !important;
+}
+
+
+.woocommerce-Price-currencySymbol {
+    margin-right: 7px;
+}

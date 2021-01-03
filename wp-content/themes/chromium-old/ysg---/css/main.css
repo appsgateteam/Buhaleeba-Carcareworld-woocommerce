@@ -1,0 +1,39 @@
+.cart-collaterals {
+    display: flex !important;
+    flex-direction: column-reverse;
+}
+
+.cart_totals {
+    max-width: 40%;
+    min-width: 500px;
+    margin-right: 0;
+    margin-left: auto;
+}
+.ysg-product-brands-section{
+}
+.all-brands{
+     display: flex;
+    align-items: flex-start;
+    justify-content:flex-start;
+    align-content: flex-start;
+    margin: 0px -3.1%;
+    }
+    .all-brands .one_brand{
+        width: 15%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+    .all-brands .one_brand a{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .all-brands .one_brand a img{
+        width: 100%;
+        display: block;
+    }

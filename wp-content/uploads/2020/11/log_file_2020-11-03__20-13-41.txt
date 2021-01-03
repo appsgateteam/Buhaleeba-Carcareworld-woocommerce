@@ -1,0 +1,90 @@
+
+---Downloaded files---
+The import files for: Chromium Demo (Local Shop) were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://thecarcareworld.com
+Data file = /home/thecar91/public_html/wp-content/themes/chromium/dummy-data/demo1/chromium-content.xml
+Widget file = /home/thecar91/public_html/wp-content/themes/chromium/dummy-data/demo1/chromium-widgets.wie
+Customizer file = /home/thecar91/public_html/wp-content/themes/chromium/dummy-data/demo1/chromium-customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+TZ Categories - Top Categories - Widget already exists
+Search - No Title - Widget already exists
+TZ Recent Posts - Recent Posts - Widget already exists
+Recent Comments - Latest Comments - Widget already exists
+Archives - Archives - Widget already exists
+TZ Most Viewed Posts - Most Viewed Posts - Widget already exists
+TZ Social Icons - Socials - Widget already exists
+
+Header (Logo group) sidebar : 
+
+AJAX Search bar - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+TZ Cart for Woocommerce - Shopping Cart - Widget already exists
+
+Shop Page Sidebar : 
+
+TZ Categories - Categories - Widget already exists
+Active Product Filters - Active Filters - Widget already exists
+Filter Products by Price - Price - Widget already exists
+Filter Products by Attribute - Department - Widget already exists
+Filter Products by Attribute - Car Type - Widget already exists
+Filter Products by Attribute - Brand - Widget already exists
+
+Single Product Page Sidebar : 
+
+Products - Recent Products - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+Footer Sidebar (1 Col) : 
+
+TZ Contacts - No Title - Widget already exists
+TZ Social Icons - Join Us: - Widget already exists
+
+Footer Sidebar (2 Col) : 
+
+Meta - INFORMATION - Widget already exists
+
+Footer Sidebar (3 Col) : 
+
+Pages - WHY BUY FROM US - Widget already exists
+
+Footer Sidebar (4 Col) : 
+
+mailchimpsf_widget - No Title - Site does not support widget
+TZ Payment Icons - We Accept: - Widget already exists
+
+Header Top Panel Left Sidebar : 
+
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Header Top Panel Right Sidebar : 
+
+woocs_selector - Currency:  - Site does not support widget
+TZ Login/Register - No Title - Widget already exists
+
+Max Mega Menu Widgets : 
+
+TZ Output Shortcode - No Title - Widget already exists
+TZ Output Shortcode - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

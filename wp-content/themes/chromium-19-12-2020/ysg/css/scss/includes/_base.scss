@@ -1,0 +1,566 @@
+
+////////////////////////////////////////////
+.lfl {
+  float: left;
+}
+
+.rfl {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.text_right {
+  text-align: right;
+}
+
+.text_left {
+  text-align: left;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.flex_display {
+  @include normal-flex;
+}
+
+.flex_justify_start {
+  justify-content: flex-start;
+}
+
+.show_block {
+  display: block;
+}
+
+.show_none {
+  display: none;
+}
+
+.withminheight {
+  min-height: 600px;
+}
+
+/*************************--------------MESSAGE*************/
+.message_holder {
+  padding: 0;
+  margin: 0;
+}
+
+.main-light-box {
+  .message {
+    min-height: 150px;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.message {
+  display: block;
+  font-size: 0.9rem;
+  padding: 20px;
+  color: #666;
+  line-height: 1.8em;
+  font-weight: 600;
+
+  &.error,
+  &.error_message {
+    color: red;
+  }
+
+  &.success,
+  &.success_message {
+    color: #00c292;
+  }
+
+  &.notification,
+  &.notification_message {
+    background-color: #fff44a;
+  }
+}
+
+/**/
+.ucase {
+  text-transform: uppercase;
+}
+
+.ccase {
+  text-transform: capitalize;
+}
+
+.lcase {
+  text-transform: lowercase;
+}
+
+.ds_desc {
+  line-height: 1.5em;
+}
+
+.ds_desc2 {
+  line-height: 2em;
+}
+
+.content {
+  width: 96%;
+  max-width: 1000px;
+  margin: 0px auto;
+}
+
+/*margins and paddings*/
+.largetopmargin {
+  margin-top: 20px;
+}
+
+.mediumtopmargin {
+  margin-top: 10px;
+}
+
+.smalltopmargin {
+  margin-top: 10px;
+}
+
+.largebottommargin {
+  margin-bottom: 20px;
+}
+
+.mediumbottommargin {
+  margin-bottom: 10px;
+}
+
+.smallbottommargin {
+  margin-bottom: 5px;
+}
+
+.largetoppadding {
+  padding-top: 20px;
+}
+
+.mediumtoppadding {
+  padding-top: 10px;
+}
+
+.mediumrightpadding {
+  padding-right: 10px;
+}
+
+.largerightpadding {
+  padding0-right: 20px;
+}
+
+.smalltoppadding {
+  padding-top: 5px;
+}
+
+.largebottompadding {
+  padding-bottom: 20px;
+}
+
+.mediumbottompadding {
+  padding-bottom: 10px;
+}
+
+.smallbottompadding {
+  padding-bottom: 5px;
+}
+
+.margincentered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.smallleftmargin {
+  margin-left: 5px;
+}
+
+.smallrightmargin {
+  margin-right: 5px;
+}
+
+.mediumleftmargin {
+  margin-left: 10px;
+}
+
+.mediumrightmargin {
+  margin-right: 10px;
+}
+
+.largeleftmargin {
+  margin-left: 20px;
+}
+
+.verylargeleftmargin {
+  margin-left: 30px;
+}
+
+.largerightmargin {
+  margin-right: 20px;
+}
+
+.verylargerightmargin {
+  margin-right: 30px;
+}
+
+.noleftpadding {
+  padding-left: 0;
+}
+
+.norightpadding {
+  padding-right: 0;
+}
+
+.noleftpaddingimportant {
+  padding-left: 0 !important;
+}
+
+.norightpaddingimportant {
+  padding-right: 0 !important;
+}
+
+.noleftmarginimportant {
+  margin-left: 0 !important;
+}
+
+.norightmarginimportant {
+  margin-right: 0 !important;
+}
+
+/*centeralize*/
+.outer_div_f {
+  position: relative;
+  overflow: hidden;
+}
+
+.outer_div_s {
+  float: left;
+  position: relative;
+  left: 50%;
+}
+
+.hold_in_mid {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
+.hold_all_show {
+  display: none;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 1200;
+  left: 0px;
+  top: 0px;
+  background-image: url(../../images/main/75black.png);
+}
+
+.in_all_show {
+  margin: 0px auto;
+  margin-top: 8%;
+  width: 560px;
+  background-color: #fff;
+  padding: 20px;
+  position: relative;
+}
+
+.in_lbox_content {
+  margin: 0px auto;
+  width: 560px;
+}
+
+.close {
+  display: block;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  line-height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  right: -10px;
+  top: -10px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.close:hover {
+  text-decoration: none;
+  box-shadow: 0px 0px 2px #222;
+}
+
+.menu_icon {
+  display: none;
+}
+
+.rel_pos {
+  position: relative;
+}
+
+.ds_desc ul {
+  margin-left: 10px;
+}
+
+.ds_desc li {
+  display: list-item;
+  list-style: disc;
+  margin-left: 10px;
+}
+
+.ds_desc ol {
+  margin-left: 10px;
+}
+
+.ds_desc ol li {
+  display: list-item;
+  list-style: decimal;
+  margin-left: 10px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.blackbackground {
+  background-color: #000;
+}
+
+.vlightorangebackground {
+  background-color: #fffdf9;
+}
+
+.lightorangebackground {
+  background-color: #fff1db;
+}
+
+.whitebackground {
+  background-color: #fff;
+}
+
+.lightgreybackground {
+  background-color: #ededed;
+}
+
+.smallfontsize {
+  font-size: 0.8em;
+}
+
+.mediumbigtext {
+  font-size: 1.25rem;
+}
+
+.bigtext {
+  font-size: 1.5rem;
+}
+
+.display_none {
+  display: none !important;
+}
+
+/*in bk*/
+.hold_all_show {
+  display: none;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 2000;
+  left: 0px;
+  top: 0px;
+  background-image: url(../images/75black.png);
+}
+
+.in_all_show {
+  margin: 0px auto;
+  margin-top: 3%;
+  width: 80%;
+  max-width: 850px;
+  background-color: #000;
+  padding: 10px 10px;
+  position: relative;
+}
+
+.in_lbox_content {
+  margin: 0px auto;
+  /*width:560px;*/
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.close {
+  display: block;
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  line-height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: bold;
+  right: -10px;
+  top: -10px;
+  color: #fff;
+  background: #c00;
+  z-index: 100;
+  position: absolute;
+}
+
+.close:hover {
+  text-decoration: none;
+  box-shadow: 0px 0px 2px #222;
+  background: #f00;
+}
+
+/* Tarun */
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+.report_month {
+  float: left;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.report_month p {
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.report_month h1 {
+  color: #efb64c;
+}
+
+.archive_link {
+  cursor: pointer;
+}
+
+/*lightbox*/
+.outer_lightbox {
+  position: fixed;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  top: 0;
+  left: 0;
+  padding: 0 2%;
+  z-index: 5000;
+  display: none;
+}
+
+.inlightbox {
+  position: relative;
+  margin: 0 auto;
+  min-height: 200px;
+  width: 100%;
+  background-color: #fff;
+  top: 10%;
+  max-width: 700px;
+  margin-bottom: 50px;
+}
+
+.long_lbox {
+  max-width: 900px;
+  box-sizing: border-box;
+}
+
+.lbox_header {
+  font-size: 1.2rem;
+  color: #333;
+  text-transform: uppercase;
+  background-color: #eee;
+  padding: 0 20px;
+  height: 50px;
+  font-weight: 700;
+  @include normal-flex(flex-start);
+}
+
+.inlightbox_content {
+  padding: 0;
+  padding-bottom: 30px;
+}
+
+.incontent_lb {
+  padding: 20px;
+}
+
+.inlightbox_content .form_submit_btn {
+  margin: 0;
+}
+
+.inlightbox_content .form_submit_btn:hover {
+  background-color: #33cc00;
+  color: #fff;
+}
+
+.inlightbox_content .close_fbtn {
+  background-color: #ddd;
+  color: #10c469;
+  margin-left: 10px;
+}
+
+.inlightbox_content .delete_fbtn {
+  margin-left: 10px;
+  background-color: #b90000;
+  color: #fff;
+}
+
+.close_lbox {
+  font-size: 1.3rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #000;
+  @include normal-flex;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  background-color: #ccc;
+  z-index: 50;
+}
+
+.close_lbox:hover {
+  color: #df0c0c;
+}
+
+/********************/

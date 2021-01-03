@@ -1,0 +1,559 @@
+# Copyright (C) 2020 Keylor Mendoza A.
+# This file is distributed under the same license as the WC Pickup Store plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Pickup Store 1.6.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-pickup-store\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-02T15:11:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wc-pickup-store\n"
+
+#. Plugin Name of the plugin
+#: includes/vc_stores.php:22
+#: includes/widget-stores.php:13
+#: includes/wps-admin.php:9
+msgid "WC Pickup Store"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.keylormendoza.com/plugins/wc-pickup-store/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Lets you to set up a custom post type for stores available to use it as shipping method Local pickup in WooCommerce. It allows your clients to choose an store on the Checkout page and also adds the store fields to the order details and email."
+msgstr ""
+
+#. Author of the plugin
+msgid "Keylor Mendoza A."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.keylormendoza.com"
+msgstr ""
+
+#: includes/post_type-store.php:7
+msgctxt "Post Type General Name"
+msgid "Stores"
+msgstr ""
+
+#: includes/post_type-store.php:8
+msgctxt "Post Type Singular Name"
+msgid "Store"
+msgstr ""
+
+#: includes/post_type-store.php:9
+#: includes/post_type-store.php:37
+#: includes/wps-admin.php:23
+msgid "Stores"
+msgstr ""
+
+#: includes/post_type-store.php:10
+#: includes/post_type-store.php:36
+#: includes/wps-functions.php:62
+msgid "Store"
+msgstr ""
+
+#: includes/post_type-store.php:11
+msgid "Store Archives"
+msgstr ""
+
+#: includes/post_type-store.php:12
+msgid "Store Attributes"
+msgstr ""
+
+#: includes/post_type-store.php:13
+msgid "Parent Store:"
+msgstr ""
+
+#: includes/post_type-store.php:14
+msgid "All Stores"
+msgstr ""
+
+#: includes/post_type-store.php:15
+#: includes/post_type-store.php:16
+msgid "Add New Store"
+msgstr ""
+
+#: includes/post_type-store.php:17
+msgid "New Store"
+msgstr ""
+
+#: includes/post_type-store.php:18
+msgid "Edit Store"
+msgstr ""
+
+#: includes/post_type-store.php:19
+msgid "Update Store"
+msgstr ""
+
+#: includes/post_type-store.php:20
+msgid "View Store"
+msgstr ""
+
+#: includes/post_type-store.php:21
+msgid "View Stores"
+msgstr ""
+
+#: includes/post_type-store.php:22
+msgid "Search Store"
+msgstr ""
+
+#: includes/post_type-store.php:23
+msgid "Not found"
+msgstr ""
+
+#: includes/post_type-store.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/post_type-store.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: includes/post_type-store.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: includes/post_type-store.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/post_type-store.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/post_type-store.php:29
+msgid "Insert into item"
+msgstr ""
+
+#: includes/post_type-store.php:30
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/post_type-store.php:31
+msgid "Items list"
+msgstr ""
+
+#: includes/post_type-store.php:32
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/post_type-store.php:33
+msgid "Filter items list"
+msgstr ""
+
+#: includes/post_type-store.php:72
+msgid "ID"
+msgstr ""
+
+#: includes/post_type-store.php:76
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/post_type-store.php:92
+msgid "Exclude in Checkout?"
+msgstr ""
+
+#: includes/post_type-store.php:92
+msgid "Yes"
+msgstr ""
+
+#: includes/post_type-store.php:92
+msgid "No"
+msgstr ""
+
+#: includes/post_type-store.php:94
+msgid "Country:"
+msgstr ""
+
+#: includes/post_type-store.php:106
+msgid "Checkout Visibility"
+msgstr ""
+
+#: includes/post_type-store.php:107
+msgid "Store Fields"
+msgstr ""
+
+#: includes/post_type-store.php:122
+msgid "Exclude store in checkout."
+msgstr ""
+
+#: includes/post_type-store.php:156
+msgid "Country"
+msgstr ""
+
+#: includes/post_type-store.php:159
+msgid "Choose a Country"
+msgstr ""
+
+#: includes/post_type-store.php:172
+msgid "Store shipping cost"
+msgstr ""
+
+#: includes/post_type-store.php:175
+msgid "Add shipping cost for this store."
+msgstr ""
+
+#: includes/post_type-store.php:180
+#: templates/selected-store-details.php:4
+msgid "City"
+msgstr ""
+
+#: includes/post_type-store.php:186
+#: templates/selected-store-details.php:7
+msgid "Phone"
+msgstr ""
+
+#: includes/post_type-store.php:192
+msgid "Order Email Notification"
+msgstr ""
+
+#: includes/post_type-store.php:196
+msgid "Enable order email notification"
+msgstr ""
+
+#: includes/post_type-store.php:198
+msgid "Add email to be notified when this store is selected on an order. Comma separated for multiple email addresses."
+msgstr ""
+
+#: includes/post_type-store.php:202
+msgid "Waze"
+msgstr ""
+
+#: includes/post_type-store.php:205
+msgid "Waze link"
+msgstr ""
+
+#: includes/post_type-store.php:209
+msgid "Map URL"
+msgstr ""
+
+#: includes/post_type-store.php:212
+msgid "Add map URL to be embedded. No iframe tag required."
+msgstr ""
+
+#: includes/post_type-store.php:216
+msgid "Short description"
+msgstr ""
+
+#: includes/post_type-store.php:225
+#: templates/selected-store-details.php:10
+msgid "Address"
+msgstr ""
+
+#: includes/vc_stores.php:24
+msgid "Show stores in page content"
+msgstr ""
+
+#: includes/vc_stores.php:25
+msgid "Content"
+msgstr ""
+
+#: includes/vc_stores.php:30
+#: includes/widget-stores.php:110
+msgid "Stores to show"
+msgstr ""
+
+#: includes/vc_stores.php:33
+#: includes/vc_stores.php:41
+#: includes/vc_stores.php:49
+#: includes/vc_stores.php:63
+#: includes/vc_stores.php:71
+#: includes/vc_stores.php:79
+#: includes/wps-admin.php:104
+#: includes/wps-admin.php:118
+msgid "Settings"
+msgstr ""
+
+#: includes/vc_stores.php:34
+#: includes/widget-stores.php:112
+msgid "Set -1 to show all stores."
+msgstr ""
+
+#: includes/vc_stores.php:38
+#: includes/widget-stores.php:115
+msgid "Set posts IDs"
+msgstr ""
+
+#: includes/vc_stores.php:42
+#: includes/widget-stores.php:117
+msgid "Add post IDs to show followed by a comma. Ex. 01,05."
+msgstr ""
+
+#: includes/vc_stores.php:46
+msgid "Show as grid?"
+msgstr ""
+
+#: includes/vc_stores.php:50
+msgid "Otherwise it'll appear as listing."
+msgstr ""
+
+#: includes/vc_stores.php:54
+msgid "Items per row"
+msgstr ""
+
+#: includes/vc_stores.php:64
+msgid "Available in grid style."
+msgstr ""
+
+#: includes/vc_stores.php:68
+#: includes/widget-stores.php:120
+msgid "Show image?"
+msgstr ""
+
+#: includes/vc_stores.php:75
+#: includes/widget-stores.php:125
+msgid "Image size"
+msgstr ""
+
+#: includes/vc_stores.php:84
+#: includes/widget-stores.php:141
+msgid "Show store name?"
+msgstr ""
+
+#: includes/vc_stores.php:87
+#: includes/vc_stores.php:94
+#: includes/vc_stores.php:101
+#: includes/vc_stores.php:108
+#: includes/vc_stores.php:115
+#: includes/widget-stores.php:139
+msgid "Fields"
+msgstr ""
+
+#: includes/vc_stores.php:91
+#: includes/widget-stores.php:151
+msgid "Show direction?"
+msgstr ""
+
+#: includes/vc_stores.php:98
+#: includes/widget-stores.php:156
+msgid "Show phone?"
+msgstr ""
+
+#: includes/vc_stores.php:105
+#: includes/widget-stores.php:161
+msgid "Show description?"
+msgstr ""
+
+#: includes/vc_stores.php:112
+msgid "Show waze link?"
+msgstr ""
+
+#: includes/vc_stores.php:120
+#: includes/vc_stores.php:122
+msgid "Icon background"
+msgstr ""
+
+#: includes/vc_stores.php:123
+#: includes/vc_stores.php:128
+#: includes/vc_stores.php:130
+#: includes/vc_stores.php:131
+msgid "Icon color"
+msgstr ""
+
+#: includes/widget-stores.php:15
+msgid "Shows store details in a widget section"
+msgstr ""
+
+#: includes/widget-stores.php:106
+msgid "Title"
+msgstr ""
+
+#: includes/widget-stores.php:130
+msgid "Show in columns?"
+msgstr ""
+
+#: includes/widget-stores.php:146
+msgid "Show city?"
+msgstr ""
+
+#: includes/widget-stores.php:166
+msgid "Show waze?"
+msgstr ""
+
+#: includes/wps-admin.php:7
+#: includes/wps-init.php:88
+msgid "None"
+msgstr ""
+
+#: includes/wps-admin.php:12
+#: includes/wps-init.php:233
+msgid "Default store"
+msgstr ""
+
+#: includes/wps-admin.php:27
+msgid "Choose a default store"
+msgstr ""
+
+#: includes/wps-admin.php:128
+msgid "You must either choose a store or use other shipping method"
+msgstr ""
+
+#: includes/wps-admin.php:147
+#: includes/wps-init.php:78
+#: includes/wps-init.php:261
+msgid "Pickup Store"
+msgstr ""
+
+#: includes/wps-admin.php:175
+msgid "There are not available stores. Please choose another shipping method."
+msgstr ""
+
+#: includes/wps-functions.php:39
+msgid "Select a store"
+msgstr ""
+
+#: includes/wps-functions.php:220
+msgid "Ship to %s"
+msgstr ""
+
+#: includes/wps-init.php:27
+msgid "Lets users to choose a store to pick up their products"
+msgstr ""
+
+#: includes/wps-init.php:63
+msgid "Enable/Disable shipping method"
+msgstr ""
+
+#: includes/wps-init.php:67
+msgid "Enable stores in checkout"
+msgstr ""
+
+#: includes/wps-init.php:71
+msgid "Shows select field to pick a store in checkout"
+msgstr ""
+
+#: includes/wps-init.php:75
+msgid "Shipping Method Title"
+msgstr ""
+
+#: includes/wps-init.php:77
+msgid "Label that appears in checkout options"
+msgstr ""
+
+#: includes/wps-init.php:82
+msgid "Shipping Costs Type"
+msgstr ""
+
+#: includes/wps-init.php:85
+msgid "Choose a shipping costs type to calculate Pick up store costs. Use None to deactivate shipping store costs"
+msgstr ""
+
+#: includes/wps-init.php:89
+msgid "Flat Rate"
+msgstr ""
+
+#: includes/wps-init.php:90
+msgid "Percentage"
+msgstr ""
+
+#: includes/wps-init.php:95
+msgid "Shipping Costs"
+msgstr ""
+
+#: includes/wps-init.php:97
+msgid "Adds main shipping cost to store pickup"
+msgstr ""
+
+#: includes/wps-init.php:103
+msgid "Enable costs per store"
+msgstr ""
+
+#: includes/wps-init.php:107
+msgid "Allows to add shipping costs by store that will override the main shipping cost."
+msgstr ""
+
+#: includes/wps-init.php:111
+msgid "Order Stores by"
+msgstr ""
+
+#: includes/wps-init.php:114
+#: includes/wps-init.php:128
+msgid "Choose what order the stores will be shown"
+msgstr ""
+
+#: includes/wps-init.php:125
+msgid "Order"
+msgstr ""
+
+#: includes/wps-init.php:138
+msgid "Choose a default store to Checkout"
+msgstr ""
+
+#: includes/wps-init.php:142
+msgid "Checkout notification"
+msgstr ""
+
+#: includes/wps-init.php:144
+msgid "Message that appears next to shipping options on the Checkout page"
+msgstr ""
+
+#: includes/wps-init.php:149
+msgid "Hide store details on Checkout"
+msgstr ""
+
+#: includes/wps-init.php:153
+msgid "Hide selected store details on the Checkout page."
+msgstr ""
+
+#: includes/wps-init.php:157
+msgid "Disable store filtering by Country"
+msgstr ""
+
+#: includes/wps-init.php:161
+msgid "By default, stores will be filtered by country on the Checkout."
+msgstr ""
+
+#: includes/wps-init.php:165
+msgid "Disable Bootstrap"
+msgstr ""
+
+#: includes/wps-init.php:169
+msgid "Disable external Bootstrap library.  Current version %s"
+msgstr ""
+
+#: includes/wps-init.php:173
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: includes/wps-init.php:177
+msgid "Disable external Font Awesome library.  Current version %s"
+msgstr ""
+
+#: includes/wps-init.php:181
+msgid "Disable local css"
+msgstr ""
+
+#: includes/wps-init.php:185
+msgid "Disable WC Pickup Store css library."
+msgstr ""
+
+#: includes/wps-init.php:189
+msgid "Disable select2 on Checkout"
+msgstr ""
+
+#: includes/wps-init.php:193
+msgid "Disable select2 library for stores dropdown on Checkout page."
+msgstr ""
+
+#: includes/wps-init.php:236
+msgid "Find this option in <a href=\"%s\" target=\"_blank\">the Customizer</a>"
+msgstr ""
+
+#: wc-pickup-store.php:43
+msgid "%1$s requires %2$sWooCommerce%3$s to be active."
+msgstr ""
+
+#: wc-pickup-store.php:68
+msgid "Since version %1$s, a new Country validation was added to %2$s. Please, update stores without country to the default %3$s %4$shere%5$s."
+msgstr ""
+
+#: wc-pickup-store.php:85
+msgid "Since version %1$s, a new Country validation was added to %2$s and all stores have been updated."
+msgstr ""

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+    <title>YITH Woocommerce Request A Quote Premium</title>
+    <parser>
+        <target>/Users/manu/vagrant-local/www/multisite/public_html/wp-content/documentation/yith-woocommerce-request-a-quote-premium/output</target>
+        <encoding>utf-8</encoding>
+        <markers>
+            <item>TODO</item>
+            <item>APPLY_FILTER</item>
+            <item>DO_ACTION</item>
+        </markers>
+        <extensions>
+            <extension>php</extension>
+        </extensions>
+    </parser>
+    <transformer>
+        <target>/Users/manu/vagrant-local/www/multisite/public_html/wp-content/documentation/yith-woocommerce-request-a-quote-premium/doc</target>
+    </transformer>
+    <transformations>
+        <template name="clean" />
+    </transformations>
+    <files>
+        <file>*.php</file>
+        <directory>yith-woocommerce-request-a-quote-premium</directory>
+        <ignore>yith-woocommerce-request-a-quote-premium/plugin-fw/*</ignore>
+        <ignore>yith-woocommerce-request-a-quote-premium/assets/*</ignore>
+        <ignore>yith-woocommerce-request-a-quote-premium/languages/*</ignore>
+        <ignore>yith-woocommerce-request-a-quote-premium/lib/*</ignore>
+    </files>
+</phpdoc>

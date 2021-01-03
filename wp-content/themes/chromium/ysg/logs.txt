@@ -1,0 +1,2024 @@
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:11 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"512345******2346","signature":"3c33900dfc8196a382de41a7b17e29d492f57f0b8a435602e80c641ae459be1c","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4889","token_name":"784224b1269c4edc9131829fa47001e7","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"512345","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:11 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"512345******2346","signature":"d5192ce8e390a15288568bfc7d2360688c11a49cca8f4dc25c1c208b4e10016b","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716301","command":"PURCHASE","response_message":"Success","merchant_reference":"4889","authorization_code":"369312","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:11 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"14000","card_number":"512345******2346","signature":"d5192ce8e390a15288568bfc7d2360688c11a49cca8f4dc25c1c208b4e10016b","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716301","command":"PURCHASE","response_message":"Success","merchant_reference":"4889","authorization_code":"369312","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:11 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"512345******2346","signature":"d5192ce8e390a15288568bfc7d2360688c11a49cca8f4dc25c1c208b4e10016b","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716301","command":"PURCHASE","response_message":"Success","merchant_reference":"4889","authorization_code":"369312","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:11 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:26 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"400555******0001","signature":"21fb5296e572a4442cbe78394f23e7aa513f847a4996f782b9db926de248bd45","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4902","token_name":"48384ab5864b43eba544f3866e0fed93","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"400555","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:26 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:26 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"400555******0001","signature":"c92f4591c73b72fc19059023ccc824eb290be7b85cdd1ecbbe75a04e5754ffcb","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716388","command":"PURCHASE","response_message":"Success","merchant_reference":"4902","authorization_code":"960348","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:26 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:26 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"14000","card_number":"400555******0001","signature":"c92f4591c73b72fc19059023ccc824eb290be7b85cdd1ecbbe75a04e5754ffcb","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716388","command":"PURCHASE","response_message":"Success","merchant_reference":"4902","authorization_code":"960348","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:26 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:29 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"400555******0001","signature":"18677bf015af698c3e760624a770869ba824bb10e6f8e374845c24a322e43cd2","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4904","token_name":"93b570113367429cb354d06d99c15356","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"400555","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:29 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:30 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"7800","response_code":"14000","card_number":"400555******0001","signature":"e42f28ea8f6c209ec38e8348201d05377251cbf9ea1b2971d28dfc29544aa089","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716414","command":"PURCHASE","response_message":"Success","merchant_reference":"4904","authorization_code":"517099","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 1:30 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:30 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"7800","response_code":"14000","card_number":"400555******0001","signature":"e42f28ea8f6c209ec38e8348201d05377251cbf9ea1b2971d28dfc29544aa089","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000716414","command":"PURCHASE","response_message":"Success","merchant_reference":"4904","authorization_code":"517099","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 22, 2020, 1:30 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"491678******0242","signature":"7895cb5933efa1abaf88ebc68c3f9cbbfa88be15d400e5783df7f2dd3f7f2080","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4906","token_name":"ef3c75c20a454f3ca47820e256e79796","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"491678","status":"18"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:49 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"2398af83f9c3805a8d0b6e3411ff1d6b4f68401aa85ed6387cc57852c2da2b0b","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717243","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4906","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"fghjbkl yuhij","status":"13"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:49 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"2398af83f9c3805a8d0b6e3411ff1d6b4f68401aa85ed6387cc57852c2da2b0b","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717243","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4906","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"fghjbkl yuhij","status":"13"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:49 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:50 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"00066","service_command":"TOKENIZATION","card_number":"512345******2346","response_message":"Merchant reference already exists","signature":"7e10b56068b0fa3f0ea36ab1558a0997cac8398c53bfe960caa0bbe12b891a44","merchant_identifier":"a4d1d605","merchant_reference":"4906","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","language":"en","status":"00"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:50 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:51 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"512345******2346","signature":"991d3664f8b9e4bd299f5b63e29ed6b2e5a2dfcecd70c719393d893d24686cdf","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4907","token_name":"825166237d2b4df984a1c27632f5bd1c","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"512345","status":"18"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:51 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:51 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"7800","response_code":"14000","card_number":"512345******2346","signature":"24e30e32998b87e43cb9913a37a303c7ceeb175b368b5a1c73280c43e58e6e89","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717259","command":"PURCHASE","response_message":"Success","merchant_reference":"4907","authorization_code":"327290","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"fghjbkl yuhij","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:51 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:51 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"7800","response_code":"14000","card_number":"512345******2346","signature":"24e30e32998b87e43cb9913a37a303c7ceeb175b368b5a1c73280c43e58e6e89","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717259","command":"PURCHASE","response_message":"Success","merchant_reference":"4907","authorization_code":"327290","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"fghjbkl yuhij","status":"14"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:51 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 22, 2020, 2:51 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"455701******8902","signature":"0de55dbed9a0177ed6aa9c041cb5cf25733ca21cc7be70160b09320df328453d","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4908","token_name":"a0282e4fbbd44a33af38b02611e3b024","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"455701","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 2:55 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"491678******0242","signature":"203763d21c2c0eabc8b8ffc49e5387f4126c9d12101f245934bc90cea7bbd79b","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4909","token_name":"4c8baf00af7d474c9f6993fff64fe609","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"491678","status":"18"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:55 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"455701******8902","signature":"1f96d509a85cfac1b0eba8937e1b57848d71ae6887ea50276b91104b2b9802e2","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.98.10.215","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717321","command":"PURCHASE","response_message":"Success","merchant_reference":"4908","authorization_code":"402897","customer_email":"nihadsmousa@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:55 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"14000","card_number":"455701******8902","signature":"1f96d509a85cfac1b0eba8937e1b57848d71ae6887ea50276b91104b2b9802e2","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.98.10.215","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717321","command":"PURCHASE","response_message":"Success","merchant_reference":"4908","authorization_code":"402897","customer_email":"nihadsmousa@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 2:55 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"aa06c785ca2b4537877cb0958158ea49d9feaa17ebfeb0f556393ea98712a507","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717327","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4909","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"jnbhNKJ mnkj","status":"13"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 2:55 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:55 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"aa06c785ca2b4537877cb0958158ea49d9feaa17ebfeb0f556393ea98712a507","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"52.95.75.20","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717327","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4909","customer_email":"testpf@yopmail.com","currency":"AED","customer_name":"jnbhNKJ mnkj","status":"13"}
+
+-------------------------
+
+
+
+[User: 52.95.75.20 - December 22, 2020, 2:55 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 3:00 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"491678******0242","signature":"0f128e9ed4b31e9994a18449c5d7d6ba09fb36d1166d4c854f73c6cc5e5c71f8","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"4910","token_name":"7cec9016dceb4acabeada965e2af77cb","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"491678","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 3:00 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 3:00 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"07c805068d153e02514216321759d01c3fa740126ee179ec23503c4b10924e86","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.98.10.215","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717417","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4910","customer_email":"nihadsmousa@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"13"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 3:00 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 3:00 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"13666","card_number":"491678******0242","signature":"07c805068d153e02514216321759d01c3fa740126ee179ec23503c4b10924e86","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"VISA","expiry_date":"2105","customer_ip":"86.98.10.215","language":"en","eci":"ECOMMERCE","fort_id":"169996200000717417","command":"PURCHASE","response_message":"Transaction declined","merchant_reference":"4910","customer_email":"nihadsmousa@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"13"}
+
+-------------------------
+
+
+
+[User: 86.98.10.215 - December 22, 2020, 3:00 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 22, 2020, 3:16 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:23 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:23 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:23 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:23 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:24 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"3255","response_code":"14000","card_number":"512345******2346","signature":"e0ea02186ff4061b282f6f8e4e8eb70766ec554dc1ce4ec04b8000cc50fc5289","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.98.41.157","language":"en","eci":"ECOMMERCE","fort_id":"169996200000719156","command":"PURCHASE","response_message":"Success","merchant_reference":"7457","authorization_code":"509706","customer_email":"test@gmail.com","currency":"AED","customer_name":"Nihad Test","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 22, 2020, 5:25 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 22, 2020, 6:26 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 22, 2020, 9:19 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 23, 2020, 12:34 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 23, 2020, 3:56 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 23, 2020, 5:57 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 23, 2020, 11:54 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 23, 2020, 12:51 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 23, 2020, 6:06 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 23, 2020, 6:09 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 23, 2020, 8:33 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 23, 2020, 10:23 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 24, 2020, 3:11 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 24, 2020, 3:58 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 24, 2020, 9:14 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 24, 2020, 10:30 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 24, 2020, 12:09 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 24, 2020, 2:14 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 24, 2020, 4:25 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 24, 2020, 7:06 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 23.95.114.144 - December 24, 2020, 10:55 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 25, 2020, 12:13 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 25, 2020, 1:54 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 25, 2020, 2:55 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 25, 2020, 4:36 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 25, 2020, 9:21 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 25, 2020, 10:17 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 26, 2020, 12:15 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 26, 2020, 1:58 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.181.51 - December 26, 2020, 2:04 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 26, 2020, 4:21 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 26, 2020, 10:02 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 26, 2020, 10:40 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 26, 2020, 10:40 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 26, 2020, 12:15 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 26, 2020, 12:54 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 26, 2020, 12:54 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 26, 2020, 2:12 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 26, 2020, 4:52 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 26, 2020, 5:29 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 26, 2020, 6:35 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 26, 2020, 7:55 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 27, 2020, 1:30 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:25 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:27 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:28 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:29 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:30 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:32 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:32 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:33 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.180.247 - December 27, 2020, 3:34 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 27, 2020, 7:01 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 27, 2020, 7:01 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.222.115.97 - December 27, 2020, 10:07 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - December 27, 2020, 5:32 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 27, 2020, 8:05 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 28, 2020, 3:02 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 28, 2020, 3:16 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 23.95.224.164 - December 28, 2020, 6:20 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 28, 2020, 7:50 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 10:12 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 10:19 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 10:19 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 28, 2020, 10:53 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 28, 2020, 12:09 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 28, 2020, 4:15 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 28, 2020, 4:24 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:43 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:44 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:45 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4255","response_code":"14000","card_number":"531358******3430","signature":"c680515eceb3604296ddd1e5da8faa166c7a5be9e9c93711ebe70796bb2d75b0","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753621","command":"PURCHASE","response_message":"Success","merchant_reference":"7583","authorization_code":"761906","customer_email":"yau@oneandorange.com","currency":"AED","customer_name":"John Doe","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:45 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 4:48 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_merchantPageResponse","response_code":"18000","card_number":"531358******3430","signature":"4356aa841b27cac9d864199428a09fa46e58880d974358c995ce3cea9c64d018","merchant_identifier":"a4d1d605","expiry_date":"2105","access_code":"OISf9R1xa58kIwT98Tvo","language":"en","service_command":"TOKENIZATION","response_message":"Success","merchant_reference":"5185","token_name":"947aab6ba756493f9432b62073263378","return_url":"https:\/\/thecarcareworld.com?wc-api=wc_gateway_payfort_fort_merchantPageResponse","card_bin":"531358","status":"18"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 4:48 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"531358******3430","signature":"8a0cfe8faf3370f0706b27ce75b8fee4ccad1e5dff894d6afb59abb358c6958a","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753662","command":"PURCHASE","response_message":"Success","merchant_reference":"5185","authorization_code":"532942","customer_email":"info@oneandorange.com","currency":"AED","customer_name":"Yau Gidado","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:49 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:49 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 4:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_fort_responseOnline","amount":"4400","response_code":"14000","card_number":"531358******3430","signature":"8a0cfe8faf3370f0706b27ce75b8fee4ccad1e5dff894d6afb59abb358c6958a","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753662","command":"PURCHASE","response_message":"Success","merchant_reference":"5185","authorization_code":"532942","customer_email":"info@oneandorange.com","currency":"AED","customer_name":"Yau Gidado","status":"14"}
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 28, 2020, 4:49 pm]
+
+Message: online
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:49 pm]
+
+Message: {"wc-api":"wc_gateway_payfort_process_response","amount":"4400","response_code":"14000","card_number":"531358******3430","signature":"8a0cfe8faf3370f0706b27ce75b8fee4ccad1e5dff894d6afb59abb358c6958a","merchant_identifier":"a4d1d605","access_code":"OISf9R1xa58kIwT98Tvo","payment_option":"MASTERCARD","expiry_date":"2105","customer_ip":"86.96.38.158","language":"en","eci":"ECOMMERCE","fort_id":"169996200000753662","command":"PURCHASE","response_message":"Success","merchant_reference":"5185","authorization_code":"532942","customer_email":"info@oneandorange.com","currency":"AED","customer_name":"Yau Gidado","status":"14"}
+
+-------------------------
+
+
+
+[User: 54.88.141.104 - December 28, 2020, 4:49 pm]
+
+Message: offline
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 28, 2020, 8:01 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 28, 2020, 9:50 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 28, 2020, 11:04 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 29, 2020, 1:42 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 29, 2020, 1:45 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 29, 2020, 1:45 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 29, 2020, 6:30 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 29, 2020, 6:35 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 29, 2020, 9:04 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 29, 2020, 9:53 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 29, 2020, 11:03 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 29, 2020, 11:27 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 29, 2020, 12:21 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 29, 2020, 12:37 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 29, 2020, 4:05 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 29, 2020, 5:01 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 29, 2020, 6:17 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 29, 2020, 8:21 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 29, 2020, 9:26 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 30, 2020, 3:15 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 30, 2020, 3:15 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 30, 2020, 7:29 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.96.38.158 - December 30, 2020, 9:04 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - December 30, 2020, 10:55 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - December 30, 2020, 11:20 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 30, 2020, 12:11 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 31, 2020, 2:42 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - December 31, 2020, 11:32 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - December 31, 2020, 12:08 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 31, 2020, 1:00 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - December 31, 2020, 1:48 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - December 31, 2020, 6:21 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - December 31, 2020, 10:37 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - January 1, 2021, 3:22 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.40 - January 1, 2021, 5:58 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - January 1, 2021, 10:33 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - January 1, 2021, 10:33 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - January 1, 2021, 3:56 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.228 - January 1, 2021, 4:50 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.48.33 - January 1, 2021, 5:22 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - January 1, 2021, 6:41 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - January 1, 2021, 8:24 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - January 2, 2021, 2:29 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.115 - January 2, 2021, 3:28 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 4:46 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 4:46 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:17 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:17 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:17 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:24 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:24 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:25 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 5:25 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - January 2, 2021, 7:15 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.91.118 - January 2, 2021, 9:11 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 2, 2021, 10:20 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - January 2, 2021, 3:29 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - January 2, 2021, 3:29 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - January 2, 2021, 3:34 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 209.127.38.28 - January 2, 2021, 3:44 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 86.97.249.17 - January 2, 2021, 4:04 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 4:50 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 4:58 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 7:14 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 8:40 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 8:46 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 144.208.67.166 - January 2, 2021, 10:11 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 11:51 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 77.44.184.233 - January 2, 2021, 11:51 pm]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 5.188.84.119 - January 3, 2021, 2:20 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 6:55 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 6:56 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 6:56 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 7:02 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 7:02 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 7:07 am]
+
+Message: 11
+
+-------------------------
+
+
+
+[User: 2.51.9.103 - January 3, 2021, 7:07 am]
+
+Message: 11
+
+-------------------------
+

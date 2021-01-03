@@ -1,0 +1,50 @@
+//defaults
+$default_font : "Roboto";
+$colors: (
+    basic: (
+        base: #333,
+        dark: #000,
+        light: #666,
+    ),
+    //
+    blue: (
+        base: #433,
+        dark: #000,
+        light: #666,
+    ),
+            //
+    white: (
+        dark: #f0f0f0,
+        base: #fff,
+        light: #f9f9f9,
+        dark-light: #f5f5f5,
+        darker-light: #eeeeee,
+        darker: #ccc,
+    ),
+    //
+    black: (
+        base: #000,
+        light: #222,
+    ),
+    grey: (
+        base: #666,
+        light: #999,
+        lighter: #ccc,
+        dark: #333,
+    ),
+    brand: (
+        blue: #24bfee,
+        purple: #7750a0,
+        grey: #99908b,
+        dark: #303030,
+        lightblue: #0080c8,
+        green: #10C469,
+        othergreen: #07a768,
+        orange: #ff5e14,
+    ),
+    red: (
+        base: red,
+        dark: maroon,
+    ),
+);
+
